@@ -1,0 +1,4312 @@
+86400 Node: 1 list of delivered contents per channel: 
+Content15- 4 5
+Content20- 4 5
+
+86400 Node: 2 list of delivered contents per channel: 
+Content13- 3 5
+Content19- 3 5
+
+86400 Node: 3 list of delivered contents per channel: 
+Content15- 5 5
+Content16- 4 5
+
+86400 Node: 4 list of delivered contents per channel: 
+Content15- 5 5
+Content17- 4 5
+
+86400 Node: 5 list of delivered contents per channel: 
+Content22- 4 5
+Content28- 4 5
+
+86400 Node: 6 list of delivered contents per channel: 
+Content23- 4 5
+Content30- 4 5
+
+86400 Node: 7 list of delivered contents per channel: 
+Content25- 3 5
+Content27- 5 5
+
+86400 Node: 8 list of delivered contents per channel: 
+Content24- 5 5
+Content28- 5 5
+
+86400 Node: 9 list of delivered contents per channel: 
+Content24- 5 5
+Content30- 5 5
+
+86400 Node: 10 list of delivered contents per channel: 
+Content23- 4 5
+Content26- 3 5
+
+86400 Node: 11 list of delivered contents per channel: 
+Content22- 4 5
+Content27- 4 5
+
+86400 Node: 12 list of delivered contents per channel: 
+Content23- 4 5
+Content28- 3 5
+
+86400 Node: 13 list of delivered contents per channel: 
+Content25- 5 5
+Content29- 4 5
+
+86400 Node: 14 list of delivered contents per channel: 
+Content23- 4 5
+Content29- 4 5
+
+86400 Node: 15 list of delivered contents per channel: 
+Content35- 5 5
+Content38- 4 5
+
+86400 Node: 16 list of delivered contents per channel: 
+Content35- 4 5
+Content37- 3 5
+
+86400 Node: 17 list of delivered contents per channel: 
+Content32- 5 5
+Content38- 3 5
+
+86400 Node: 18 list of delivered contents per channel: 
+Content32- 4 5
+Content36- 4 5
+
+86400 Node: 19 list of delivered contents per channel: 
+Content33- 5 5
+Content39- 5 5
+
+86400 Node: 20 list of delivered contents per channel: 
+Content32- 5 5
+Content38- 4 5
+
+86400 Node: 21 list of delivered contents per channel: 
+Content34- 3 5
+Content37- 3 5
+
+86400 Node: 22 list of delivered contents per channel: 
+Content34- 3 5
+Content38- 3 5
+
+86400 Node: 23 list of delivered contents per channel: 
+Content33- 5 5
+Content37- 4 5
+
+86400 Node: 24 list of delivered contents per channel: 
+Content32- 4 5
+Content40- 4 5
+
+86400 Node: 25 list of delivered contents per channel: 
+Content42- 21 50
+Content49- 18 50
+
+86400 Node: 26 list of delivered contents per channel: 
+Content42- 17 50
+Content49- 5 50
+
+86400 Node: 27 list of delivered contents per channel: 
+Content42- 49 50
+Content49- 7 50
+
+86400 Node: 28 list of delivered contents per channel: 
+Content45- 20 50
+Content48- 43 50
+
+86400 Node: 29 list of delivered contents per channel: 
+Content43- 18 50
+Content49- 15 50
+
+86400 Node: 30 list of delivered contents per channel: 
+Content42- 25 50
+Content47- 26 50
+
+86400 Node: 31 list of delivered contents per channel: 
+Content45- 19 50
+Content49- 8 50
+
+86400 Node: 32 list of delivered contents per channel: 
+Content43- 17 50
+Content49- 7 50
+
+86400 Node: 33 list of delivered contents per channel: 
+Content43- 33 50
+Content49- 9 50
+
+86400 Node: 34 list of delivered contents per channel: 
+Content42- 18 50
+Content48- 23 50
+
+86400 Node: 35 list of delivered contents per channel: 
+Content2- 4 5
+Content7- 5 5
+
+86400 Node: 36 list of delivered contents per channel: 
+Content5- 4 5
+Content7- 3 5
+
+86400 Node: 37 list of delivered contents per channel: 
+Content5- 3 5
+Content7- 5 5
+
+86400 Node: 38 list of delivered contents per channel: 
+Content4- 4 5
+Content6- 4 5
+
+86400 Node: 39 list of delivered contents per channel: 
+Content10- 4 5
+Content2- 4 5
+
+86400 Node: 40 list of delivered contents per channel: 
+Content5- 5 5
+Content7- 5 5
+
+86400 Node: 41 list of delivered contents per channel: 
+Content2- 4 5
+Content9- 4 5
+
+86400 Node: 42 list of delivered contents per channel: 
+Content2- 5 5
+Content8- 3 5
+
+86400 Node: 43 list of delivered contents per channel: 
+Content4- 4 5
+Content9- 5 5
+
+86400 Node: 44 list of delivered contents per channel: 
+Content5- 5 5
+Content9- 5 5
+
+86400 Node: 45 list of delivered contents per channel: 
+Content13- 5 5
+Content18- 5 5
+
+86400 Node: 46 list of delivered contents per channel: 
+Content15- 3 5
+Content18- 3 5
+
+86400 Node: 47 list of delivered contents per channel: 
+Content12- 3 5
+Content17- 4 5
+
+86400 Node: 48 list of delivered contents per channel: 
+Content12- 4 5
+Content17- 5 5
+
+86400 Node: 49 list of delivered contents per channel: 
+Content15- 5 5
+Content19- 5 5
+
+86400 Node: 1 list of delivered contents per channel: 
+Content15- 4 5
+Content20- 5 5
+
+86400 Node: 2 list of delivered contents per channel: 
+Content13- 3 5
+Content19- 3 5
+
+86400 Node: 3 list of delivered contents per channel: 
+Content15- 5 5
+Content16- 4 5
+
+86400 Node: 4 list of delivered contents per channel: 
+Content15- 5 5
+Content17- 3 5
+
+86400 Node: 5 list of delivered contents per channel: 
+Content22- 3 5
+Content28- 3 5
+
+86400 Node: 6 list of delivered contents per channel: 
+Content23- 4 5
+Content30- 5 5
+
+86400 Node: 7 list of delivered contents per channel: 
+Content25- 3 5
+Content27- 5 5
+
+86400 Node: 8 list of delivered contents per channel: 
+Content24- 4 5
+Content28- 5 5
+
+86400 Node: 9 list of delivered contents per channel: 
+Content24- 5 5
+Content30- 5 5
+
+86400 Node: 10 list of delivered contents per channel: 
+Content23- 5 5
+Content26- 4 5
+
+86400 Node: 11 list of delivered contents per channel: 
+Content22- 3 5
+Content27- 3 5
+
+86400 Node: 12 list of delivered contents per channel: 
+Content23- 4 5
+Content28- 3 5
+
+86400 Node: 13 list of delivered contents per channel: 
+Content25- 4 5
+Content29- 4 5
+
+86400 Node: 14 list of delivered contents per channel: 
+Content23- 4 5
+Content29- 4 5
+
+86400 Node: 15 list of delivered contents per channel: 
+Content35- 5 5
+Content38- 4 5
+
+86400 Node: 16 list of delivered contents per channel: 
+Content35- 5 5
+Content37- 3 5
+
+86400 Node: 17 list of delivered contents per channel: 
+Content32- 5 5
+Content38- 3 5
+
+86400 Node: 18 list of delivered contents per channel: 
+Content32- 4 5
+Content36- 5 5
+
+86400 Node: 19 list of delivered contents per channel: 
+Content33- 4 5
+Content39- 5 5
+
+86400 Node: 20 list of delivered contents per channel: 
+Content32- 5 5
+Content38- 4 5
+
+86400 Node: 21 list of delivered contents per channel: 
+Content34- 3 5
+Content37- 3 5
+
+86400 Node: 22 list of delivered contents per channel: 
+Content34- 3 5
+Content38- 3 5
+
+86400 Node: 23 list of delivered contents per channel: 
+Content33- 5 5
+Content37- 4 5
+
+86400 Node: 24 list of delivered contents per channel: 
+Content32- 4 5
+Content40- 3 5
+
+86400 Node: 25 list of delivered contents per channel: 
+Content42- 23 50
+Content49- 11 50
+
+86400 Node: 26 list of delivered contents per channel: 
+Content42- 20 50
+Content49- 9 50
+
+86400 Node: 27 list of delivered contents per channel: 
+Content42- 49 50
+Content49- 8 50
+
+86400 Node: 28 list of delivered contents per channel: 
+Content45- 24 50
+Content48- 43 50
+
+86400 Node: 29 list of delivered contents per channel: 
+Content43- 18 50
+Content49- 18 50
+
+86400 Node: 30 list of delivered contents per channel: 
+Content42- 27 50
+Content47- 24 50
+
+86400 Node: 31 list of delivered contents per channel: 
+Content45- 22 50
+Content49- 12 50
+
+86400 Node: 32 list of delivered contents per channel: 
+Content43- 15 50
+Content49- 8 50
+
+86400 Node: 33 list of delivered contents per channel: 
+Content43- 32 50
+Content49- 9 50
+
+86400 Node: 34 list of delivered contents per channel: 
+Content42- 21 50
+Content48- 20 50
+
+86400 Node: 35 list of delivered contents per channel: 
+Content2- 4 5
+Content7- 5 5
+
+86400 Node: 36 list of delivered contents per channel: 
+Content5- 5 5
+Content7- 3 5
+
+86400 Node: 37 list of delivered contents per channel: 
+Content5- 3 5
+Content7- 5 5
+
+86400 Node: 38 list of delivered contents per channel: 
+Content4- 4 5
+Content6- 4 5
+
+86400 Node: 39 list of delivered contents per channel: 
+Content10- 5 5
+Content2- 4 5
+
+86400 Node: 40 list of delivered contents per channel: 
+Content5- 5 5
+Content7- 5 5
+
+86400 Node: 41 list of delivered contents per channel: 
+Content2- 3 5
+Content9- 4 5
+
+86400 Node: 42 list of delivered contents per channel: 
+Content2- 5 5
+Content8- 3 5
+
+86400 Node: 43 list of delivered contents per channel: 
+Content4- 4 5
+Content9- 4 5
+
+86400 Node: 44 list of delivered contents per channel: 
+Content5- 5 5
+Content9- 5 5
+
+86400 Node: 45 list of delivered contents per channel: 
+Content13- 5 5
+Content18- 4 5
+
+86400 Node: 46 list of delivered contents per channel: 
+Content15- 3 5
+Content18- 3 5
+
+86400 Node: 47 list of delivered contents per channel: 
+Content12- 4 5
+Content17- 3 5
+
+86400 Node: 48 list of delivered contents per channel: 
+Content12- 5 5
+Content17- 5 5
+
+86400 Node: 49 list of delivered contents per channel: 
+Content15- 5 5
+Content19- 5 5
+
+86400 Node: 1 list of delivered contents per channel: 
+Content15- 4 5
+Content20- 4 5
+
+86400 Node: 2 list of delivered contents per channel: 
+Content13- 3 5
+Content19- 3 5
+
+86400 Node: 3 list of delivered contents per channel: 
+Content15- 5 5
+Content16- 3 5
+
+86400 Node: 4 list of delivered contents per channel: 
+Content15- 4 5
+Content17- 4 5
+
+86400 Node: 5 list of delivered contents per channel: 
+Content22- 4 5
+Content28- 5 5
+
+86400 Node: 6 list of delivered contents per channel: 
+Content23- 4 5
+Content30- 4 5
+
+86400 Node: 7 list of delivered contents per channel: 
+Content25- 3 5
+Content27- 5 5
+
+86400 Node: 8 list of delivered contents per channel: 
+Content24- 4 5
+Content28- 5 5
+
+86400 Node: 9 list of delivered contents per channel: 
+Content24- 5 5
+Content30- 5 5
+
+86400 Node: 10 list of delivered contents per channel: 
+Content23- 4 5
+Content26- 4 5
+
+86400 Node: 11 list of delivered contents per channel: 
+Content22- 3 5
+Content27- 3 5
+
+86400 Node: 12 list of delivered contents per channel: 
+Content23- 4 5
+Content28- 3 5
+
+86400 Node: 13 list of delivered contents per channel: 
+Content25- 5 5
+Content29- 4 5
+
+86400 Node: 14 list of delivered contents per channel: 
+Content23- 4 5
+Content29- 4 5
+
+86400 Node: 15 list of delivered contents per channel: 
+Content35- 5 5
+Content38- 5 5
+
+86400 Node: 16 list of delivered contents per channel: 
+Content35- 4 5
+Content37- 4 5
+
+86400 Node: 17 list of delivered contents per channel: 
+Content32- 5 5
+Content38- 3 5
+
+86400 Node: 18 list of delivered contents per channel: 
+Content32- 3 5
+Content36- 4 5
+
+86400 Node: 19 list of delivered contents per channel: 
+Content33- 5 5
+Content39- 5 5
+
+86400 Node: 20 list of delivered contents per channel: 
+Content32- 4 5
+Content38- 5 5
+
+86400 Node: 21 list of delivered contents per channel: 
+Content34- 3 5
+Content37- 3 5
+
+86400 Node: 22 list of delivered contents per channel: 
+Content34- 3 5
+Content38- 3 5
+
+86400 Node: 23 list of delivered contents per channel: 
+Content33- 5 5
+Content37- 4 5
+
+86400 Node: 24 list of delivered contents per channel: 
+Content32- 2 5
+Content40- 3 5
+
+86400 Node: 25 list of delivered contents per channel: 
+Content42- 22 50
+Content49- 15 50
+
+86400 Node: 26 list of delivered contents per channel: 
+Content42- 23 50
+Content49- 8 50
+
+86400 Node: 27 list of delivered contents per channel: 
+Content42- 49 50
+Content49- 7 50
+
+86400 Node: 28 list of delivered contents per channel: 
+Content45- 20 50
+Content48- 42 50
+
+86400 Node: 29 list of delivered contents per channel: 
+Content43- 21 50
+Content49- 18 50
+
+86400 Node: 30 list of delivered contents per channel: 
+Content42- 27 50
+Content47- 20 50
+
+86400 Node: 31 list of delivered contents per channel: 
+Content45- 26 50
+Content49- 11 50
+
+86400 Node: 32 list of delivered contents per channel: 
+Content43- 19 50
+Content49- 9 50
+
+86400 Node: 33 list of delivered contents per channel: 
+Content43- 33 50
+Content49- 11 50
+
+86400 Node: 34 list of delivered contents per channel: 
+Content42- 22 50
+Content48- 22 50
+
+86400 Node: 35 list of delivered contents per channel: 
+Content2- 4 5
+Content7- 5 5
+
+86400 Node: 36 list of delivered contents per channel: 
+Content5- 5 5
+Content7- 4 5
+
+86400 Node: 37 list of delivered contents per channel: 
+Content5- 3 5
+Content7- 5 5
+
+86400 Node: 38 list of delivered contents per channel: 
+Content4- 4 5
+Content6- 4 5
+
+86400 Node: 39 list of delivered contents per channel: 
+Content10- 4 5
+Content2- 4 5
+
+86400 Node: 40 list of delivered contents per channel: 
+Content5- 5 5
+Content7- 5 5
+
+86400 Node: 41 list of delivered contents per channel: 
+Content2- 4 5
+Content9- 4 5
+
+86400 Node: 42 list of delivered contents per channel: 
+Content2- 5 5
+Content8- 3 5
+
+86400 Node: 43 list of delivered contents per channel: 
+Content4- 4 5
+Content9- 3 5
+
+86400 Node: 44 list of delivered contents per channel: 
+Content5- 5 5
+Content9- 5 5
+
+86400 Node: 45 list of delivered contents per channel: 
+Content13- 5 5
+Content18- 4 5
+
+86400 Node: 46 list of delivered contents per channel: 
+Content15- 3 5
+Content18- 3 5
+
+86400 Node: 47 list of delivered contents per channel: 
+Content12- 3 5
+Content17- 3 5
+
+86400 Node: 48 list of delivered contents per channel: 
+Content12- 5 5
+Content17- 5 5
+
+86400 Node: 49 list of delivered contents per channel: 
+Content15- 4 5
+Content19- 5 5
+
+86400 Node: 1 list of delivered contents per channel: 
+Content15- 4 5
+Content20- 5 5
+
+86400 Node: 2 list of delivered contents per channel: 
+Content13- 3 5
+Content19- 3 5
+
+86400 Node: 3 list of delivered contents per channel: 
+Content15- 4 5
+Content16- 4 5
+
+86400 Node: 4 list of delivered contents per channel: 
+Content15- 5 5
+Content17- 3 5
+
+86400 Node: 5 list of delivered contents per channel: 
+Content22- 3 5
+Content28- 4 5
+
+86400 Node: 6 list of delivered contents per channel: 
+Content23- 4 5
+Content30- 5 5
+
+86400 Node: 7 list of delivered contents per channel: 
+Content25- 3 5
+Content27- 5 5
+
+86400 Node: 8 list of delivered contents per channel: 
+Content24- 4 5
+Content28- 5 5
+
+86400 Node: 9 list of delivered contents per channel: 
+Content24- 4 5
+Content30- 5 5
+
+86400 Node: 10 list of delivered contents per channel: 
+Content23- 4 5
+Content26- 3 5
+
+86400 Node: 11 list of delivered contents per channel: 
+Content22- 3 5
+Content27- 4 5
+
+86400 Node: 12 list of delivered contents per channel: 
+Content23- 3 5
+Content28- 4 5
+
+86400 Node: 13 list of delivered contents per channel: 
+Content25- 4 5
+Content29- 4 5
+
+86400 Node: 14 list of delivered contents per channel: 
+Content23- 4 5
+Content29- 4 5
+
+86400 Node: 15 list of delivered contents per channel: 
+Content35- 5 5
+Content38- 5 5
+
+86400 Node: 16 list of delivered contents per channel: 
+Content35- 5 5
+Content37- 3 5
+
+86400 Node: 17 list of delivered contents per channel: 
+Content32- 5 5
+Content38- 3 5
+
+86400 Node: 18 list of delivered contents per channel: 
+Content32- 4 5
+Content36- 4 5
+
+86400 Node: 19 list of delivered contents per channel: 
+Content33- 4 5
+Content39- 5 5
+
+86400 Node: 20 list of delivered contents per channel: 
+Content32- 5 5
+Content38- 5 5
+
+86400 Node: 21 list of delivered contents per channel: 
+Content34- 2 5
+Content37- 3 5
+
+86400 Node: 22 list of delivered contents per channel: 
+Content34- 3 5
+Content38- 3 5
+
+86400 Node: 23 list of delivered contents per channel: 
+Content33- 5 5
+Content37- 4 5
+
+86400 Node: 24 list of delivered contents per channel: 
+Content32- 4 5
+Content40- 5 5
+
+86400 Node: 25 list of delivered contents per channel: 
+Content42- 21 50
+Content49- 16 50
+
+86400 Node: 26 list of delivered contents per channel: 
+Content42- 21 50
+Content49- 9 50
+
+86400 Node: 27 list of delivered contents per channel: 
+Content42- 49 50
+Content49- 13 50
+
+86400 Node: 28 list of delivered contents per channel: 
+Content45- 19 50
+Content48- 43 50
+
+86400 Node: 29 list of delivered contents per channel: 
+Content43- 18 50
+Content49- 21 50
+
+86400 Node: 30 list of delivered contents per channel: 
+Content42- 25 50
+Content47- 24 50
+
+86400 Node: 31 list of delivered contents per channel: 
+Content45- 25 50
+Content49- 19 50
+
+86400 Node: 32 list of delivered contents per channel: 
+Content43- 14 50
+Content49- 13 50
+
+86400 Node: 33 list of delivered contents per channel: 
+Content43- 32 50
+Content49- 16 50
+
+86400 Node: 34 list of delivered contents per channel: 
+Content42- 22 50
+Content48- 21 50
+
+86400 Node: 35 list of delivered contents per channel: 
+Content2- 5 5
+Content7- 4 5
+
+86400 Node: 36 list of delivered contents per channel: 
+Content5- 5 5
+Content7- 4 5
+
+86400 Node: 37 list of delivered contents per channel: 
+Content5- 3 5
+Content7- 5 5
+
+86400 Node: 38 list of delivered contents per channel: 
+Content4- 4 5
+Content6- 4 5
+
+86400 Node: 39 list of delivered contents per channel: 
+Content10- 5 5
+Content2- 4 5
+
+86400 Node: 40 list of delivered contents per channel: 
+Content5- 5 5
+Content7- 4 5
+
+86400 Node: 41 list of delivered contents per channel: 
+Content2- 3 5
+Content9- 4 5
+
+86400 Node: 42 list of delivered contents per channel: 
+Content2- 5 5
+Content8- 3 5
+
+86400 Node: 43 list of delivered contents per channel: 
+Content4- 4 5
+Content9- 5 5
+
+86400 Node: 44 list of delivered contents per channel: 
+Content5- 5 5
+Content9- 5 5
+
+86400 Node: 45 list of delivered contents per channel: 
+Content13- 4 5
+Content18- 4 5
+
+86400 Node: 46 list of delivered contents per channel: 
+Content15- 3 5
+Content18- 2 5
+
+86400 Node: 47 list of delivered contents per channel: 
+Content12- 3 5
+Content17- 4 5
+
+86400 Node: 48 list of delivered contents per channel: 
+Content12- 4 5
+Content17- 5 5
+
+86400 Node: 49 list of delivered contents per channel: 
+Content15- 5 5
+Content19- 5 5
+
+86400 Node: 1 list of delivered contents per channel: 
+Content15- 4 5
+Content20- 5 5
+
+86400 Node: 2 list of delivered contents per channel: 
+Content13- 3 5
+Content19- 3 5
+
+86400 Node: 3 list of delivered contents per channel: 
+Content15- 5 5
+Content16- 4 5
+
+86400 Node: 4 list of delivered contents per channel: 
+Content15- 5 5
+Content17- 4 5
+
+86400 Node: 5 list of delivered contents per channel: 
+Content22- 4 5
+Content28- 5 5
+
+86400 Node: 6 list of delivered contents per channel: 
+Content23- 4 5
+Content30- 5 5
+
+86400 Node: 7 list of delivered contents per channel: 
+Content25- 3 5
+Content27- 5 5
+
+86400 Node: 8 list of delivered contents per channel: 
+Content24- 5 5
+Content28- 5 5
+
+86400 Node: 9 list of delivered contents per channel: 
+Content24- 5 5
+Content30- 5 5
+
+86400 Node: 10 list of delivered contents per channel: 
+Content23- 4 5
+Content26- 3 5
+
+86400 Node: 11 list of delivered contents per channel: 
+Content22- 4 5
+Content27- 4 5
+
+86400 Node: 12 list of delivered contents per channel: 
+Content23- 4 5
+Content28- 4 5
+
+86400 Node: 13 list of delivered contents per channel: 
+Content25- 5 5
+Content29- 4 5
+
+86400 Node: 14 list of delivered contents per channel: 
+Content23- 4 5
+Content29- 4 5
+
+86400 Node: 15 list of delivered contents per channel: 
+Content35- 5 5
+Content38- 4 5
+
+86400 Node: 16 list of delivered contents per channel: 
+Content35- 5 5
+Content37- 3 5
+
+86400 Node: 17 list of delivered contents per channel: 
+Content32- 5 5
+Content38- 3 5
+
+86400 Node: 18 list of delivered contents per channel: 
+Content32- 4 5
+Content36- 5 5
+
+86400 Node: 19 list of delivered contents per channel: 
+Content33- 5 5
+Content39- 5 5
+
+86400 Node: 20 list of delivered contents per channel: 
+Content32- 5 5
+Content38- 4 5
+
+86400 Node: 21 list of delivered contents per channel: 
+Content34- 2 5
+Content37- 3 5
+
+86400 Node: 22 list of delivered contents per channel: 
+Content34- 3 5
+Content38- 3 5
+
+86400 Node: 23 list of delivered contents per channel: 
+Content33- 5 5
+Content37- 4 5
+
+86400 Node: 24 list of delivered contents per channel: 
+Content32- 4 5
+Content40- 5 5
+
+86400 Node: 25 list of delivered contents per channel: 
+Content42- 22 50
+Content49- 18 50
+
+86400 Node: 26 list of delivered contents per channel: 
+Content42- 22 50
+Content49- 5 50
+
+86400 Node: 27 list of delivered contents per channel: 
+Content42- 48 50
+Content49- 7 50
+
+86400 Node: 28 list of delivered contents per channel: 
+Content45- 24 50
+Content48- 43 50
+
+86400 Node: 29 list of delivered contents per channel: 
+Content43- 20 50
+Content49- 20 50
+
+86400 Node: 30 list of delivered contents per channel: 
+Content42- 26 50
+Content47- 22 50
+
+86400 Node: 31 list of delivered contents per channel: 
+Content45- 23 50
+Content49- 10 50
+
+86400 Node: 32 list of delivered contents per channel: 
+Content43- 20 50
+Content49- 8 50
+
+86400 Node: 33 list of delivered contents per channel: 
+Content43- 33 50
+Content49- 13 50
+
+86400 Node: 34 list of delivered contents per channel: 
+Content42- 23 50
+Content48- 17 50
+
+86400 Node: 35 list of delivered contents per channel: 
+Content2- 5 5
+Content7- 4 5
+
+86400 Node: 36 list of delivered contents per channel: 
+Content5- 5 5
+Content7- 4 5
+
+86400 Node: 37 list of delivered contents per channel: 
+Content5- 3 5
+Content7- 5 5
+
+86400 Node: 38 list of delivered contents per channel: 
+Content4- 5 5
+Content6- 4 5
+
+86400 Node: 39 list of delivered contents per channel: 
+Content10- 5 5
+Content2- 4 5
+
+86400 Node: 40 list of delivered contents per channel: 
+Content5- 5 5
+Content7- 4 5
+
+86400 Node: 41 list of delivered contents per channel: 
+Content2- 4 5
+Content9- 3 5
+
+86400 Node: 42 list of delivered contents per channel: 
+Content2- 5 5
+Content8- 3 5
+
+86400 Node: 43 list of delivered contents per channel: 
+Content4- 5 5
+Content9- 5 5
+
+86400 Node: 44 list of delivered contents per channel: 
+Content5- 5 5
+Content9- 5 5
+
+86400 Node: 45 list of delivered contents per channel: 
+Content13- 5 5
+Content18- 4 5
+
+86400 Node: 46 list of delivered contents per channel: 
+Content15- 3 5
+Content18- 3 5
+
+86400 Node: 47 list of delivered contents per channel: 
+Content12- 3 5
+Content17- 4 5
+
+86400 Node: 48 list of delivered contents per channel: 
+Content12- 4 5
+Content17- 4 5
+
+86400 Node: 49 list of delivered contents per channel: 
+Content15- 5 5
+Content19- 5 5
+
+86400 Node: 1 list of delivered contents per channel: 
+Content15- 4 5
+Content20- 5 5
+
+86400 Node: 2 list of delivered contents per channel: 
+Content13- 3 5
+Content19- 3 5
+
+86400 Node: 3 list of delivered contents per channel: 
+Content15- 5 5
+Content16- 4 5
+
+86400 Node: 4 list of delivered contents per channel: 
+Content15- 5 5
+Content17- 4 5
+
+86400 Node: 5 list of delivered contents per channel: 
+Content22- 4 5
+Content28- 5 5
+
+86400 Node: 6 list of delivered contents per channel: 
+Content23- 3 5
+Content30- 4 5
+
+86400 Node: 7 list of delivered contents per channel: 
+Content25- 3 5
+Content27- 5 5
+
+86400 Node: 8 list of delivered contents per channel: 
+Content24- 5 5
+Content28- 5 5
+
+86400 Node: 9 list of delivered contents per channel: 
+Content24- 5 5
+Content30- 4 5
+
+86400 Node: 10 list of delivered contents per channel: 
+Content23- 3 5
+Content26- 3 5
+
+86400 Node: 11 list of delivered contents per channel: 
+Content22- 3 5
+Content27- 3 5
+
+86400 Node: 12 list of delivered contents per channel: 
+Content23- 3 5
+Content28- 4 5
+
+86400 Node: 13 list of delivered contents per channel: 
+Content25- 4 5
+Content29- 4 5
+
+86400 Node: 14 list of delivered contents per channel: 
+Content23- 4 5
+Content29- 4 5
+
+86400 Node: 15 list of delivered contents per channel: 
+Content35- 5 5
+Content38- 5 5
+
+86400 Node: 16 list of delivered contents per channel: 
+Content35- 5 5
+Content37- 3 5
+
+86400 Node: 17 list of delivered contents per channel: 
+Content32- 5 5
+Content38- 3 5
+
+86400 Node: 18 list of delivered contents per channel: 
+Content32- 4 5
+Content36- 4 5
+
+86400 Node: 19 list of delivered contents per channel: 
+Content33- 4 5
+Content39- 5 5
+
+86400 Node: 20 list of delivered contents per channel: 
+Content32- 5 5
+Content38- 5 5
+
+86400 Node: 21 list of delivered contents per channel: 
+Content34- 3 5
+Content37- 3 5
+
+86400 Node: 22 list of delivered contents per channel: 
+Content34- 3 5
+Content38- 3 5
+
+86400 Node: 23 list of delivered contents per channel: 
+Content33- 5 5
+Content37- 3 5
+
+86400 Node: 24 list of delivered contents per channel: 
+Content32- 4 5
+Content40- 5 5
+
+86400 Node: 25 list of delivered contents per channel: 
+Content42- 22 50
+Content49- 12 50
+
+86400 Node: 26 list of delivered contents per channel: 
+Content42- 20 50
+Content49- 4 50
+
+86400 Node: 27 list of delivered contents per channel: 
+Content42- 49 50
+Content49- 5 50
+
+86400 Node: 28 list of delivered contents per channel: 
+Content45- 19 50
+Content48- 42 50
+
+86400 Node: 29 list of delivered contents per channel: 
+Content43- 21 50
+Content49- 15 50
+
+86400 Node: 30 list of delivered contents per channel: 
+Content42- 28 50
+Content47- 26 50
+
+86400 Node: 31 list of delivered contents per channel: 
+Content45- 22 50
+Content49- 8 50
+
+86400 Node: 32 list of delivered contents per channel: 
+Content43- 19 50
+Content49- 5 50
+
+86400 Node: 33 list of delivered contents per channel: 
+Content43- 33 50
+Content49- 10 50
+
+86400 Node: 34 list of delivered contents per channel: 
+Content42- 21 50
+Content48- 16 50
+
+86400 Node: 35 list of delivered contents per channel: 
+Content2- 4 5
+Content7- 5 5
+
+86400 Node: 36 list of delivered contents per channel: 
+Content5- 4 5
+Content7- 4 5
+
+86400 Node: 37 list of delivered contents per channel: 
+Content5- 3 5
+Content7- 5 5
+
+86400 Node: 38 list of delivered contents per channel: 
+Content4- 4 5
+Content6- 4 5
+
+86400 Node: 39 list of delivered contents per channel: 
+Content10- 5 5
+Content2- 4 5
+
+86400 Node: 40 list of delivered contents per channel: 
+Content5- 5 5
+Content7- 5 5
+
+86400 Node: 41 list of delivered contents per channel: 
+Content2- 4 5
+Content9- 4 5
+
+86400 Node: 42 list of delivered contents per channel: 
+Content2- 5 5
+Content8- 3 5
+
+86400 Node: 43 list of delivered contents per channel: 
+Content4- 4 5
+Content9- 5 5
+
+86400 Node: 44 list of delivered contents per channel: 
+Content5- 5 5
+Content9- 5 5
+
+86400 Node: 45 list of delivered contents per channel: 
+Content13- 4 5
+Content18- 4 5
+
+86400 Node: 46 list of delivered contents per channel: 
+Content15- 3 5
+Content18- 3 5
+
+86400 Node: 47 list of delivered contents per channel: 
+Content12- 3 5
+Content17- 4 5
+
+86400 Node: 48 list of delivered contents per channel: 
+Content12- 4 5
+Content17- 5 5
+
+86400 Node: 49 list of delivered contents per channel: 
+Content15- 5 5
+Content19- 5 5
+
+86400 Node: 1 list of delivered contents per channel: 
+Content15- 4 5
+Content20- 4 5
+
+86400 Node: 2 list of delivered contents per channel: 
+Content13- 3 5
+Content19- 3 5
+
+86400 Node: 3 list of delivered contents per channel: 
+Content15- 5 5
+Content16- 4 5
+
+86400 Node: 4 list of delivered contents per channel: 
+Content15- 5 5
+Content17- 4 5
+
+86400 Node: 5 list of delivered contents per channel: 
+Content22- 4 5
+Content28- 5 5
+
+86400 Node: 6 list of delivered contents per channel: 
+Content23- 4 5
+Content30- 4 5
+
+86400 Node: 7 list of delivered contents per channel: 
+Content25- 3 5
+Content27- 5 5
+
+86400 Node: 8 list of delivered contents per channel: 
+Content24- 4 5
+Content28- 5 5
+
+86400 Node: 9 list of delivered contents per channel: 
+Content24- 5 5
+Content30- 5 5
+
+86400 Node: 10 list of delivered contents per channel: 
+Content23- 5 5
+Content26- 4 5
+
+86400 Node: 11 list of delivered contents per channel: 
+Content22- 3 5
+Content27- 3 5
+
+86400 Node: 12 list of delivered contents per channel: 
+Content23- 3 5
+Content28- 3 5
+
+86400 Node: 13 list of delivered contents per channel: 
+Content25- 5 5
+Content29- 4 5
+
+86400 Node: 14 list of delivered contents per channel: 
+Content23- 5 5
+Content29- 4 5
+
+86400 Node: 15 list of delivered contents per channel: 
+Content35- 5 5
+Content38- 5 5
+
+86400 Node: 16 list of delivered contents per channel: 
+Content35- 5 5
+Content37- 3 5
+
+86400 Node: 17 list of delivered contents per channel: 
+Content32- 5 5
+Content38- 3 5
+
+86400 Node: 18 list of delivered contents per channel: 
+Content32- 4 5
+Content36- 4 5
+
+86400 Node: 19 list of delivered contents per channel: 
+Content33- 3 5
+Content39- 5 5
+
+86400 Node: 20 list of delivered contents per channel: 
+Content32- 5 5
+Content38- 5 5
+
+86400 Node: 21 list of delivered contents per channel: 
+Content34- 3 5
+Content37- 3 5
+
+86400 Node: 22 list of delivered contents per channel: 
+Content34- 3 5
+Content38- 3 5
+
+86400 Node: 23 list of delivered contents per channel: 
+Content33- 5 5
+Content37- 4 5
+
+86400 Node: 24 list of delivered contents per channel: 
+Content32- 4 5
+Content40- 4 5
+
+86400 Node: 25 list of delivered contents per channel: 
+Content42- 21 50
+Content49- 11 50
+
+86400 Node: 26 list of delivered contents per channel: 
+Content42- 22 50
+Content49- 7 50
+
+86400 Node: 27 list of delivered contents per channel: 
+Content42- 49 50
+Content49- 7 50
+
+86400 Node: 28 list of delivered contents per channel: 
+Content45- 24 50
+Content48- 41 50
+
+86400 Node: 29 list of delivered contents per channel: 
+Content43- 20 50
+Content49- 16 50
+
+86400 Node: 30 list of delivered contents per channel: 
+Content42- 25 50
+Content47- 24 50
+
+86400 Node: 31 list of delivered contents per channel: 
+Content45- 24 50
+Content49- 11 50
+
+86400 Node: 32 list of delivered contents per channel: 
+Content43- 15 50
+Content49- 8 50
+
+86400 Node: 33 list of delivered contents per channel: 
+Content43- 31 50
+Content49- 11 50
+
+86400 Node: 34 list of delivered contents per channel: 
+Content42- 23 50
+Content48- 25 50
+
+86400 Node: 35 list of delivered contents per channel: 
+Content2- 5 5
+Content7- 5 5
+
+86400 Node: 36 list of delivered contents per channel: 
+Content5- 5 5
+Content7- 4 5
+
+86400 Node: 37 list of delivered contents per channel: 
+Content5- 3 5
+Content7- 5 5
+
+86400 Node: 38 list of delivered contents per channel: 
+Content4- 4 5
+Content6- 4 5
+
+86400 Node: 39 list of delivered contents per channel: 
+Content10- 4 5
+Content2- 4 5
+
+86400 Node: 40 list of delivered contents per channel: 
+Content5- 5 5
+Content7- 5 5
+
+86400 Node: 41 list of delivered contents per channel: 
+Content2- 4 5
+Content9- 3 5
+
+86400 Node: 42 list of delivered contents per channel: 
+Content2- 5 5
+Content8- 3 5
+
+86400 Node: 43 list of delivered contents per channel: 
+Content4- 4 5
+Content9- 5 5
+
+86400 Node: 44 list of delivered contents per channel: 
+Content5- 5 5
+Content9- 5 5
+
+86400 Node: 45 list of delivered contents per channel: 
+Content13- 5 5
+Content18- 5 5
+
+86400 Node: 46 list of delivered contents per channel: 
+Content15- 3 5
+Content18- 3 5
+
+86400 Node: 47 list of delivered contents per channel: 
+Content12- 4 5
+Content17- 4 5
+
+86400 Node: 48 list of delivered contents per channel: 
+Content12- 5 5
+Content17- 4 5
+
+86400 Node: 49 list of delivered contents per channel: 
+Content15- 5 5
+Content19- 5 5
+
+86400 Node: 1 list of delivered contents per channel: 
+Content15- 5 5
+Content20- 5 5
+
+86400 Node: 2 list of delivered contents per channel: 
+Content13- 3 5
+Content19- 3 5
+
+86400 Node: 3 list of delivered contents per channel: 
+Content15- 5 5
+Content16- 4 5
+
+86400 Node: 4 list of delivered contents per channel: 
+Content15- 4 5
+Content17- 4 5
+
+86400 Node: 5 list of delivered contents per channel: 
+Content22- 3 5
+Content28- 5 5
+
+86400 Node: 6 list of delivered contents per channel: 
+Content23- 4 5
+Content30- 4 5
+
+86400 Node: 7 list of delivered contents per channel: 
+Content25- 3 5
+Content27- 5 5
+
+86400 Node: 8 list of delivered contents per channel: 
+Content24- 4 5
+Content28- 5 5
+
+86400 Node: 9 list of delivered contents per channel: 
+Content24- 5 5
+Content30- 5 5
+
+86400 Node: 10 list of delivered contents per channel: 
+Content23- 4 5
+Content26- 4 5
+
+86400 Node: 11 list of delivered contents per channel: 
+Content22- 3 5
+Content27- 3 5
+
+86400 Node: 12 list of delivered contents per channel: 
+Content23- 4 5
+Content28- 4 5
+
+86400 Node: 13 list of delivered contents per channel: 
+Content25- 4 5
+Content29- 4 5
+
+86400 Node: 14 list of delivered contents per channel: 
+Content23- 4 5
+Content29- 4 5
+
+86400 Node: 15 list of delivered contents per channel: 
+Content35- 5 5
+Content38- 5 5
+
+86400 Node: 16 list of delivered contents per channel: 
+Content35- 4 5
+Content37- 4 5
+
+86400 Node: 17 list of delivered contents per channel: 
+Content32- 5 5
+Content38- 3 5
+
+86400 Node: 18 list of delivered contents per channel: 
+Content32- 4 5
+Content36- 5 5
+
+86400 Node: 19 list of delivered contents per channel: 
+Content33- 5 5
+Content39- 5 5
+
+86400 Node: 20 list of delivered contents per channel: 
+Content32- 5 5
+Content38- 5 5
+
+86400 Node: 21 list of delivered contents per channel: 
+Content34- 3 5
+Content37- 3 5
+
+86400 Node: 22 list of delivered contents per channel: 
+Content34- 3 5
+Content38- 3 5
+
+86400 Node: 23 list of delivered contents per channel: 
+Content33- 5 5
+Content37- 4 5
+
+86400 Node: 24 list of delivered contents per channel: 
+Content32- 3 5
+Content40- 3 5
+
+86400 Node: 25 list of delivered contents per channel: 
+Content42- 21 50
+Content49- 15 50
+
+86400 Node: 26 list of delivered contents per channel: 
+Content42- 21 50
+Content49- 6 50
+
+86400 Node: 27 list of delivered contents per channel: 
+Content42- 48 50
+Content49- 7 50
+
+86400 Node: 28 list of delivered contents per channel: 
+Content45- 21 50
+Content48- 43 50
+
+86400 Node: 29 list of delivered contents per channel: 
+Content43- 20 50
+Content49- 14 50
+
+86400 Node: 30 list of delivered contents per channel: 
+Content42- 26 50
+Content47- 26 50
+
+86400 Node: 31 list of delivered contents per channel: 
+Content45- 28 50
+Content49- 12 50
+
+86400 Node: 32 list of delivered contents per channel: 
+Content43- 20 50
+Content49- 7 50
+
+86400 Node: 33 list of delivered contents per channel: 
+Content43- 32 50
+Content49- 13 50
+
+86400 Node: 34 list of delivered contents per channel: 
+Content42- 21 50
+Content48- 23 50
+
+86400 Node: 35 list of delivered contents per channel: 
+Content2- 5 5
+Content7- 5 5
+
+86400 Node: 36 list of delivered contents per channel: 
+Content5- 5 5
+Content7- 4 5
+
+86400 Node: 37 list of delivered contents per channel: 
+Content5- 3 5
+Content7- 5 5
+
+86400 Node: 38 list of delivered contents per channel: 
+Content4- 4 5
+Content6- 3 5
+
+86400 Node: 39 list of delivered contents per channel: 
+Content10- 5 5
+Content2- 4 5
+
+86400 Node: 40 list of delivered contents per channel: 
+Content5- 5 5
+Content7- 5 5
+
+86400 Node: 41 list of delivered contents per channel: 
+Content2- 4 5
+Content9- 4 5
+
+86400 Node: 42 list of delivered contents per channel: 
+Content2- 5 5
+Content8- 3 5
+
+86400 Node: 43 list of delivered contents per channel: 
+Content4- 4 5
+Content9- 5 5
+
+86400 Node: 44 list of delivered contents per channel: 
+Content5- 5 5
+Content9- 5 5
+
+86400 Node: 45 list of delivered contents per channel: 
+Content13- 5 5
+Content18- 4 5
+
+86400 Node: 46 list of delivered contents per channel: 
+Content15- 3 5
+Content18- 3 5
+
+86400 Node: 47 list of delivered contents per channel: 
+Content12- 3 5
+Content17- 4 5
+
+86400 Node: 48 list of delivered contents per channel: 
+Content12- 4 5
+Content17- 4 5
+
+86400 Node: 49 list of delivered contents per channel: 
+Content15- 5 5
+Content19- 5 5
+
+86400 Node: 1 list of delivered contents per channel: 
+Content15- 4 5
+Content20- 4 5
+
+86400 Node: 2 list of delivered contents per channel: 
+Content13- 3 5
+Content19- 3 5
+
+86400 Node: 3 list of delivered contents per channel: 
+Content15- 5 5
+Content16- 4 5
+
+86400 Node: 4 list of delivered contents per channel: 
+Content15- 5 5
+Content17- 4 5
+
+86400 Node: 5 list of delivered contents per channel: 
+Content22- 4 5
+Content28- 4 5
+
+86400 Node: 6 list of delivered contents per channel: 
+Content23- 3 5
+Content30- 5 5
+
+86400 Node: 7 list of delivered contents per channel: 
+Content25- 3 5
+Content27- 5 5
+
+86400 Node: 8 list of delivered contents per channel: 
+Content24- 5 5
+Content28- 5 5
+
+86400 Node: 9 list of delivered contents per channel: 
+Content24- 5 5
+Content30- 5 5
+
+86400 Node: 10 list of delivered contents per channel: 
+Content23- 4 5
+Content26- 4 5
+
+86400 Node: 11 list of delivered contents per channel: 
+Content22- 3 5
+Content27- 3 5
+
+86400 Node: 12 list of delivered contents per channel: 
+Content23- 3 5
+Content28- 4 5
+
+86400 Node: 13 list of delivered contents per channel: 
+Content25- 5 5
+Content29- 4 5
+
+86400 Node: 14 list of delivered contents per channel: 
+Content23- 4 5
+Content29- 4 5
+
+86400 Node: 15 list of delivered contents per channel: 
+Content35- 5 5
+Content38- 4 5
+
+86400 Node: 16 list of delivered contents per channel: 
+Content35- 4 5
+Content37- 3 5
+
+86400 Node: 17 list of delivered contents per channel: 
+Content32- 5 5
+Content38- 3 5
+
+86400 Node: 18 list of delivered contents per channel: 
+Content32- 4 5
+Content36- 4 5
+
+86400 Node: 19 list of delivered contents per channel: 
+Content33- 5 5
+Content39- 5 5
+
+86400 Node: 20 list of delivered contents per channel: 
+Content32- 5 5
+Content38- 4 5
+
+86400 Node: 21 list of delivered contents per channel: 
+Content34- 3 5
+Content37- 3 5
+
+86400 Node: 22 list of delivered contents per channel: 
+Content34- 3 5
+Content38- 3 5
+
+86400 Node: 23 list of delivered contents per channel: 
+Content33- 5 5
+Content37- 4 5
+
+86400 Node: 24 list of delivered contents per channel: 
+Content32- 4 5
+Content40- 5 5
+
+86400 Node: 25 list of delivered contents per channel: 
+Content42- 22 50
+Content49- 15 50
+
+86400 Node: 26 list of delivered contents per channel: 
+Content42- 20 50
+Content49- 7 50
+
+86400 Node: 27 list of delivered contents per channel: 
+Content42- 48 50
+Content49- 10 50
+
+86400 Node: 28 list of delivered contents per channel: 
+Content45- 17 50
+Content48- 44 50
+
+86400 Node: 29 list of delivered contents per channel: 
+Content43- 20 50
+Content49- 17 50
+
+86400 Node: 30 list of delivered contents per channel: 
+Content42- 25 50
+Content47- 27 50
+
+86400 Node: 31 list of delivered contents per channel: 
+Content45- 19 50
+Content49- 11 50
+
+86400 Node: 32 list of delivered contents per channel: 
+Content43- 18 50
+Content49- 10 50
+
+86400 Node: 33 list of delivered contents per channel: 
+Content43- 31 50
+Content49- 11 50
+
+86400 Node: 34 list of delivered contents per channel: 
+Content42- 22 50
+Content48- 18 50
+
+86400 Node: 35 list of delivered contents per channel: 
+Content2- 5 5
+Content7- 5 5
+
+86400 Node: 36 list of delivered contents per channel: 
+Content5- 4 5
+Content7- 4 5
+
+86400 Node: 37 list of delivered contents per channel: 
+Content5- 3 5
+Content7- 5 5
+
+86400 Node: 38 list of delivered contents per channel: 
+Content4- 4 5
+Content6- 4 5
+
+86400 Node: 39 list of delivered contents per channel: 
+Content10- 4 5
+Content2- 4 5
+
+86400 Node: 40 list of delivered contents per channel: 
+Content5- 5 5
+Content7- 5 5
+
+86400 Node: 41 list of delivered contents per channel: 
+Content2- 4 5
+Content9- 4 5
+
+86400 Node: 42 list of delivered contents per channel: 
+Content2- 5 5
+Content8- 3 5
+
+86400 Node: 43 list of delivered contents per channel: 
+Content4- 4 5
+Content9- 5 5
+
+86400 Node: 44 list of delivered contents per channel: 
+Content5- 5 5
+Content9- 5 5
+
+86400 Node: 45 list of delivered contents per channel: 
+Content13- 5 5
+Content18- 4 5
+
+86400 Node: 46 list of delivered contents per channel: 
+Content15- 3 5
+Content18- 3 5
+
+86400 Node: 47 list of delivered contents per channel: 
+Content12- 4 5
+Content17- 4 5
+
+86400 Node: 48 list of delivered contents per channel: 
+Content12- 5 5
+Content17- 5 5
+
+86400 Node: 49 list of delivered contents per channel: 
+Content15- 4 5
+Content19- 5 5
+
+86400 Node: 1 list of delivered contents per channel: 
+Content15- 4 5
+Content20- 4 5
+
+86400 Node: 2 list of delivered contents per channel: 
+Content13- 3 5
+Content19- 2 5
+
+86400 Node: 3 list of delivered contents per channel: 
+Content15- 5 5
+Content16- 5 5
+
+86400 Node: 4 list of delivered contents per channel: 
+Content15- 4 5
+Content17- 4 5
+
+86400 Node: 5 list of delivered contents per channel: 
+Content22- 3 5
+Content28- 4 5
+
+86400 Node: 6 list of delivered contents per channel: 
+Content23- 4 5
+Content30- 5 5
+
+86400 Node: 7 list of delivered contents per channel: 
+Content25- 3 5
+Content27- 5 5
+
+86400 Node: 8 list of delivered contents per channel: 
+Content24- 5 5
+Content28- 5 5
+
+86400 Node: 9 list of delivered contents per channel: 
+Content24- 5 5
+Content30- 5 5
+
+86400 Node: 10 list of delivered contents per channel: 
+Content23- 4 5
+Content26- 4 5
+
+86400 Node: 11 list of delivered contents per channel: 
+Content22- 3 5
+Content27- 4 5
+
+86400 Node: 12 list of delivered contents per channel: 
+Content23- 4 5
+Content28- 4 5
+
+86400 Node: 13 list of delivered contents per channel: 
+Content25- 4 5
+Content29- 4 5
+
+86400 Node: 14 list of delivered contents per channel: 
+Content23- 4 5
+Content29- 4 5
+
+86400 Node: 15 list of delivered contents per channel: 
+Content35- 5 5
+Content38- 4 5
+
+86400 Node: 16 list of delivered contents per channel: 
+Content35- 4 5
+Content37- 4 5
+
+86400 Node: 17 list of delivered contents per channel: 
+Content32- 5 5
+Content38- 3 5
+
+86400 Node: 18 list of delivered contents per channel: 
+Content32- 4 5
+Content36- 4 5
+
+86400 Node: 19 list of delivered contents per channel: 
+Content33- 5 5
+Content39- 5 5
+
+86400 Node: 20 list of delivered contents per channel: 
+Content32- 5 5
+Content38- 4 5
+
+86400 Node: 21 list of delivered contents per channel: 
+Content34- 2 5
+Content37- 3 5
+
+86400 Node: 22 list of delivered contents per channel: 
+Content34- 3 5
+Content38- 3 5
+
+86400 Node: 23 list of delivered contents per channel: 
+Content33- 5 5
+Content37- 4 5
+
+86400 Node: 24 list of delivered contents per channel: 
+Content32- 3 5
+Content40- 4 5
+
+86400 Node: 25 list of delivered contents per channel: 
+Content42- 21 50
+Content49- 18 50
+
+86400 Node: 26 list of delivered contents per channel: 
+Content42- 20 50
+Content49- 8 50
+
+86400 Node: 27 list of delivered contents per channel: 
+Content42- 49 50
+Content49- 10 50
+
+86400 Node: 28 list of delivered contents per channel: 
+Content45- 25 50
+Content48- 43 50
+
+86400 Node: 29 list of delivered contents per channel: 
+Content43- 21 50
+Content49- 22 50
+
+86400 Node: 30 list of delivered contents per channel: 
+Content42- 25 50
+Content47- 22 50
+
+86400 Node: 31 list of delivered contents per channel: 
+Content45- 26 50
+Content49- 12 50
+
+86400 Node: 32 list of delivered contents per channel: 
+Content43- 18 50
+Content49- 10 50
+
+86400 Node: 33 list of delivered contents per channel: 
+Content43- 34 50
+Content49- 12 50
+
+86400 Node: 34 list of delivered contents per channel: 
+Content42- 21 50
+Content48- 20 50
+
+86400 Node: 35 list of delivered contents per channel: 
+Content2- 5 5
+Content7- 4 5
+
+86400 Node: 36 list of delivered contents per channel: 
+Content5- 5 5
+Content7- 4 5
+
+86400 Node: 37 list of delivered contents per channel: 
+Content5- 3 5
+Content7- 5 5
+
+86400 Node: 38 list of delivered contents per channel: 
+Content4- 4 5
+Content6- 4 5
+
+86400 Node: 39 list of delivered contents per channel: 
+Content10- 5 5
+Content2- 4 5
+
+86400 Node: 40 list of delivered contents per channel: 
+Content5- 5 5
+Content7- 4 5
+
+86400 Node: 41 list of delivered contents per channel: 
+Content2- 4 5
+Content9- 2 5
+
+86400 Node: 42 list of delivered contents per channel: 
+Content2- 5 5
+Content8- 3 5
+
+86400 Node: 43 list of delivered contents per channel: 
+Content4- 4 5
+Content9- 5 5
+
+86400 Node: 44 list of delivered contents per channel: 
+Content5- 5 5
+Content9- 5 5
+
+86400 Node: 45 list of delivered contents per channel: 
+Content13- 5 5
+Content18- 4 5
+
+86400 Node: 46 list of delivered contents per channel: 
+Content15- 3 5
+Content18- 3 5
+
+86400 Node: 47 list of delivered contents per channel: 
+Content12- 3 5
+Content17- 3 5
+
+86400 Node: 48 list of delivered contents per channel: 
+Content12- 4 5
+Content17- 5 5
+
+86400 Node: 49 list of delivered contents per channel: 
+Content15- 4 5
+Content19- 5 5
+
+86400 Node: 1 list of delivered contents per channel: 
+Content15- 5 5
+Content20- 5 5
+
+86400 Node: 2 list of delivered contents per channel: 
+Content13- 3 5
+Content19- 3 5
+
+86400 Node: 3 list of delivered contents per channel: 
+Content15- 5 5
+Content16- 4 5
+
+86400 Node: 4 list of delivered contents per channel: 
+Content15- 5 5
+Content17- 4 5
+
+86400 Node: 5 list of delivered contents per channel: 
+Content22- 5 5
+Content28- 5 5
+
+86400 Node: 6 list of delivered contents per channel: 
+Content23- 4 5
+Content30- 4 5
+
+86400 Node: 7 list of delivered contents per channel: 
+Content25- 3 5
+Content27- 5 5
+
+86400 Node: 8 list of delivered contents per channel: 
+Content24- 4 5
+Content28- 5 5
+
+86400 Node: 9 list of delivered contents per channel: 
+Content24- 5 5
+Content30- 4 5
+
+86400 Node: 10 list of delivered contents per channel: 
+Content23- 4 5
+Content26- 4 5
+
+86400 Node: 11 list of delivered contents per channel: 
+Content22- 3 5
+Content27- 4 5
+
+86400 Node: 12 list of delivered contents per channel: 
+Content23- 4 5
+Content28- 3 5
+
+86400 Node: 13 list of delivered contents per channel: 
+Content25- 5 5
+Content29- 4 5
+
+86400 Node: 14 list of delivered contents per channel: 
+Content23- 4 5
+Content29- 4 5
+
+86400 Node: 15 list of delivered contents per channel: 
+Content35- 5 5
+Content38- 4 5
+
+86400 Node: 16 list of delivered contents per channel: 
+Content35- 4 5
+Content37- 4 5
+
+86400 Node: 17 list of delivered contents per channel: 
+Content32- 5 5
+Content38- 3 5
+
+86400 Node: 18 list of delivered contents per channel: 
+Content32- 4 5
+Content36- 4 5
+
+86400 Node: 19 list of delivered contents per channel: 
+Content33- 5 5
+Content39- 5 5
+
+86400 Node: 20 list of delivered contents per channel: 
+Content32- 4 5
+Content38- 4 5
+
+86400 Node: 21 list of delivered contents per channel: 
+Content34- 3 5
+Content37- 3 5
+
+86400 Node: 22 list of delivered contents per channel: 
+Content34- 3 5
+Content38- 3 5
+
+86400 Node: 23 list of delivered contents per channel: 
+Content33- 5 5
+Content37- 4 5
+
+86400 Node: 24 list of delivered contents per channel: 
+Content32- 3 5
+Content40- 3 5
+
+86400 Node: 25 list of delivered contents per channel: 
+Content42- 21 50
+Content49- 10 50
+
+86400 Node: 26 list of delivered contents per channel: 
+Content42- 24 50
+Content49- 6 50
+
+86400 Node: 27 list of delivered contents per channel: 
+Content42- 48 50
+Content49- 6 50
+
+86400 Node: 28 list of delivered contents per channel: 
+Content45- 19 50
+Content48- 41 50
+
+86400 Node: 29 list of delivered contents per channel: 
+Content43- 21 50
+Content49- 17 50
+
+86400 Node: 30 list of delivered contents per channel: 
+Content42- 27 50
+Content47- 24 50
+
+86400 Node: 31 list of delivered contents per channel: 
+Content45- 27 50
+Content49- 10 50
+
+86400 Node: 32 list of delivered contents per channel: 
+Content43- 18 50
+Content49- 6 50
+
+86400 Node: 33 list of delivered contents per channel: 
+Content43- 34 50
+Content49- 10 50
+
+86400 Node: 34 list of delivered contents per channel: 
+Content42- 23 50
+Content48- 28 50
+
+86400 Node: 35 list of delivered contents per channel: 
+Content2- 5 5
+Content7- 5 5
+
+86400 Node: 36 list of delivered contents per channel: 
+Content5- 5 5
+Content7- 4 5
+
+86400 Node: 37 list of delivered contents per channel: 
+Content5- 3 5
+Content7- 5 5
+
+86400 Node: 38 list of delivered contents per channel: 
+Content4- 4 5
+Content6- 4 5
+
+86400 Node: 39 list of delivered contents per channel: 
+Content10- 5 5
+Content2- 4 5
+
+86400 Node: 40 list of delivered contents per channel: 
+Content5- 5 5
+Content7- 5 5
+
+86400 Node: 41 list of delivered contents per channel: 
+Content2- 4 5
+Content9- 5 5
+
+86400 Node: 42 list of delivered contents per channel: 
+Content2- 5 5
+Content8- 3 5
+
+86400 Node: 43 list of delivered contents per channel: 
+Content4- 4 5
+Content9- 5 5
+
+86400 Node: 44 list of delivered contents per channel: 
+Content5- 5 5
+Content9- 5 5
+
+86400 Node: 45 list of delivered contents per channel: 
+Content13- 5 5
+Content18- 5 5
+
+86400 Node: 46 list of delivered contents per channel: 
+Content15- 3 5
+Content18- 2 5
+
+86400 Node: 47 list of delivered contents per channel: 
+Content12- 3 5
+Content17- 3 5
+
+86400 Node: 48 list of delivered contents per channel: 
+Content12- 4 5
+Content17- 4 5
+
+86400 Node: 49 list of delivered contents per channel: 
+Content15- 5 5
+Content19- 5 5
+
+86400 Node: 1 list of delivered contents per channel: 
+Content15- 4 5
+Content20- 5 5
+
+86400 Node: 2 list of delivered contents per channel: 
+Content13- 3 5
+Content19- 3 5
+
+86400 Node: 3 list of delivered contents per channel: 
+Content15- 5 5
+Content16- 4 5
+
+86400 Node: 4 list of delivered contents per channel: 
+Content15- 4 5
+Content17- 4 5
+
+86400 Node: 5 list of delivered contents per channel: 
+Content22- 4 5
+Content28- 4 5
+
+86400 Node: 6 list of delivered contents per channel: 
+Content23- 4 5
+Content30- 5 5
+
+86400 Node: 7 list of delivered contents per channel: 
+Content25- 3 5
+Content27- 5 5
+
+86400 Node: 8 list of delivered contents per channel: 
+Content24- 5 5
+Content28- 5 5
+
+86400 Node: 9 list of delivered contents per channel: 
+Content24- 5 5
+Content30- 5 5
+
+86400 Node: 10 list of delivered contents per channel: 
+Content23- 4 5
+Content26- 3 5
+
+86400 Node: 11 list of delivered contents per channel: 
+Content22- 3 5
+Content27- 4 5
+
+86400 Node: 12 list of delivered contents per channel: 
+Content23- 4 5
+Content28- 3 5
+
+86400 Node: 13 list of delivered contents per channel: 
+Content25- 4 5
+Content29- 4 5
+
+86400 Node: 14 list of delivered contents per channel: 
+Content23- 4 5
+Content29- 4 5
+
+86400 Node: 15 list of delivered contents per channel: 
+Content35- 5 5
+Content38- 4 5
+
+86400 Node: 16 list of delivered contents per channel: 
+Content35- 5 5
+Content37- 4 5
+
+86400 Node: 17 list of delivered contents per channel: 
+Content32- 5 5
+Content38- 3 5
+
+86400 Node: 18 list of delivered contents per channel: 
+Content32- 4 5
+Content36- 5 5
+
+86400 Node: 19 list of delivered contents per channel: 
+Content33- 5 5
+Content39- 5 5
+
+86400 Node: 20 list of delivered contents per channel: 
+Content32- 5 5
+Content38- 4 5
+
+86400 Node: 21 list of delivered contents per channel: 
+Content34- 3 5
+Content37- 3 5
+
+86400 Node: 22 list of delivered contents per channel: 
+Content34- 3 5
+Content38- 3 5
+
+86400 Node: 23 list of delivered contents per channel: 
+Content33- 5 5
+Content37- 4 5
+
+86400 Node: 24 list of delivered contents per channel: 
+Content32- 4 5
+Content40- 5 5
+
+86400 Node: 25 list of delivered contents per channel: 
+Content42- 22 50
+Content49- 16 50
+
+86400 Node: 26 list of delivered contents per channel: 
+Content42- 19 50
+Content49- 7 50
+
+86400 Node: 27 list of delivered contents per channel: 
+Content42- 48 50
+Content49- 10 50
+
+86400 Node: 28 list of delivered contents per channel: 
+Content45- 26 50
+Content48- 44 50
+
+86400 Node: 29 list of delivered contents per channel: 
+Content43- 19 50
+Content49- 21 50
+
+86400 Node: 30 list of delivered contents per channel: 
+Content42- 27 50
+Content47- 21 50
+
+86400 Node: 31 list of delivered contents per channel: 
+Content45- 23 50
+Content49- 14 50
+
+86400 Node: 32 list of delivered contents per channel: 
+Content43- 18 50
+Content49- 10 50
+
+86400 Node: 33 list of delivered contents per channel: 
+Content43- 37 50
+Content49- 16 50
+
+86400 Node: 34 list of delivered contents per channel: 
+Content42- 23 50
+Content48- 19 50
+
+86400 Node: 35 list of delivered contents per channel: 
+Content2- 5 5
+Content7- 5 5
+
+86400 Node: 36 list of delivered contents per channel: 
+Content5- 5 5
+Content7- 3 5
+
+86400 Node: 37 list of delivered contents per channel: 
+Content5- 3 5
+Content7- 5 5
+
+86400 Node: 38 list of delivered contents per channel: 
+Content4- 4 5
+Content6- 4 5
+
+86400 Node: 39 list of delivered contents per channel: 
+Content10- 4 5
+Content2- 4 5
+
+86400 Node: 40 list of delivered contents per channel: 
+Content5- 5 5
+Content7- 5 5
+
+86400 Node: 41 list of delivered contents per channel: 
+Content2- 4 5
+Content9- 4 5
+
+86400 Node: 42 list of delivered contents per channel: 
+Content2- 5 5
+Content8- 3 5
+
+86400 Node: 43 list of delivered contents per channel: 
+Content4- 4 5
+Content9- 5 5
+
+86400 Node: 44 list of delivered contents per channel: 
+Content5- 5 5
+Content9- 5 5
+
+86400 Node: 45 list of delivered contents per channel: 
+Content13- 5 5
+Content18- 5 5
+
+86400 Node: 46 list of delivered contents per channel: 
+Content15- 3 5
+Content18- 3 5
+
+86400 Node: 47 list of delivered contents per channel: 
+Content12- 3 5
+Content17- 3 5
+
+86400 Node: 48 list of delivered contents per channel: 
+Content12- 4 5
+Content17- 5 5
+
+86400 Node: 49 list of delivered contents per channel: 
+Content15- 5 5
+Content19- 5 5
+
+86400 Node: 1 list of delivered contents per channel: 
+Content15- 4 5
+Content20- 4 5
+
+86400 Node: 2 list of delivered contents per channel: 
+Content13- 3 5
+Content19- 3 5
+
+86400 Node: 3 list of delivered contents per channel: 
+Content15- 4 5
+Content16- 4 5
+
+86400 Node: 4 list of delivered contents per channel: 
+Content15- 5 5
+Content17- 4 5
+
+86400 Node: 5 list of delivered contents per channel: 
+Content22- 3 5
+Content28- 3 5
+
+86400 Node: 6 list of delivered contents per channel: 
+Content23- 3 5
+Content30- 4 5
+
+86400 Node: 7 list of delivered contents per channel: 
+Content25- 3 5
+Content27- 5 5
+
+86400 Node: 8 list of delivered contents per channel: 
+Content24- 5 5
+Content28- 5 5
+
+86400 Node: 9 list of delivered contents per channel: 
+Content24- 4 5
+Content30- 5 5
+
+86400 Node: 10 list of delivered contents per channel: 
+Content23- 4 5
+Content26- 4 5
+
+86400 Node: 11 list of delivered contents per channel: 
+Content22- 3 5
+Content27- 4 5
+
+86400 Node: 12 list of delivered contents per channel: 
+Content23- 3 5
+Content28- 3 5
+
+86400 Node: 13 list of delivered contents per channel: 
+Content25- 4 5
+Content29- 4 5
+
+86400 Node: 14 list of delivered contents per channel: 
+Content23- 4 5
+Content29- 4 5
+
+86400 Node: 15 list of delivered contents per channel: 
+Content35- 5 5
+Content38- 4 5
+
+86400 Node: 16 list of delivered contents per channel: 
+Content35- 4 5
+Content37- 3 5
+
+86400 Node: 17 list of delivered contents per channel: 
+Content32- 5 5
+Content38- 3 5
+
+86400 Node: 18 list of delivered contents per channel: 
+Content32- 4 5
+Content36- 3 5
+
+86400 Node: 19 list of delivered contents per channel: 
+Content33- 4 5
+Content39- 5 5
+
+86400 Node: 20 list of delivered contents per channel: 
+Content32- 5 5
+Content38- 4 5
+
+86400 Node: 21 list of delivered contents per channel: 
+Content34- 3 5
+Content37- 3 5
+
+86400 Node: 22 list of delivered contents per channel: 
+Content34- 3 5
+Content38- 3 5
+
+86400 Node: 23 list of delivered contents per channel: 
+Content33- 5 5
+Content37- 4 5
+
+86400 Node: 24 list of delivered contents per channel: 
+Content32- 4 5
+Content40- 3 5
+
+86400 Node: 25 list of delivered contents per channel: 
+Content42- 22 50
+Content49- 21 50
+
+86400 Node: 26 list of delivered contents per channel: 
+Content42- 19 50
+Content49- 9 50
+
+86400 Node: 27 list of delivered contents per channel: 
+Content42- 48 50
+Content49- 12 50
+
+86400 Node: 28 list of delivered contents per channel: 
+Content45- 20 50
+Content48- 42 50
+
+86400 Node: 29 list of delivered contents per channel: 
+Content43- 19 50
+Content49- 22 50
+
+86400 Node: 30 list of delivered contents per channel: 
+Content42- 26 50
+Content47- 21 50
+
+86400 Node: 31 list of delivered contents per channel: 
+Content45- 23 50
+Content49- 15 50
+
+86400 Node: 32 list of delivered contents per channel: 
+Content43- 18 50
+Content49- 12 50
+
+86400 Node: 33 list of delivered contents per channel: 
+Content43- 34 50
+Content49- 12 50
+
+86400 Node: 34 list of delivered contents per channel: 
+Content42- 20 50
+Content48- 18 50
+
+86400 Node: 35 list of delivered contents per channel: 
+Content2- 5 5
+Content7- 4 5
+
+86400 Node: 36 list of delivered contents per channel: 
+Content5- 4 5
+Content7- 4 5
+
+86400 Node: 37 list of delivered contents per channel: 
+Content5- 3 5
+Content7- 5 5
+
+86400 Node: 38 list of delivered contents per channel: 
+Content4- 4 5
+Content6- 4 5
+
+86400 Node: 39 list of delivered contents per channel: 
+Content10- 4 5
+Content2- 3 5
+
+86400 Node: 40 list of delivered contents per channel: 
+Content5- 5 5
+Content7- 4 5
+
+86400 Node: 41 list of delivered contents per channel: 
+Content2- 3 5
+Content9- 4 5
+
+86400 Node: 42 list of delivered contents per channel: 
+Content2- 5 5
+Content8- 3 5
+
+86400 Node: 43 list of delivered contents per channel: 
+Content4- 4 5
+Content9- 5 5
+
+86400 Node: 44 list of delivered contents per channel: 
+Content5- 5 5
+Content9- 5 5
+
+86400 Node: 45 list of delivered contents per channel: 
+Content13- 5 5
+Content18- 4 5
+
+86400 Node: 46 list of delivered contents per channel: 
+Content15- 3 5
+Content18- 3 5
+
+86400 Node: 47 list of delivered contents per channel: 
+Content12- 3 5
+Content17- 4 5
+
+86400 Node: 48 list of delivered contents per channel: 
+Content12- 4 5
+Content17- 4 5
+
+86400 Node: 49 list of delivered contents per channel: 
+Content15- 5 5
+Content19- 5 5
+
+86400 Node: 1 list of delivered contents per channel: 
+Content15- 4 5
+Content20- 4 5
+
+86400 Node: 2 list of delivered contents per channel: 
+Content13- 4 5
+Content19- 3 5
+
+86400 Node: 3 list of delivered contents per channel: 
+Content15- 5 5
+Content16- 4 5
+
+86400 Node: 4 list of delivered contents per channel: 
+Content15- 5 5
+Content17- 4 5
+
+86400 Node: 5 list of delivered contents per channel: 
+Content22- 5 5
+Content28- 5 5
+
+86400 Node: 6 list of delivered contents per channel: 
+Content23- 4 5
+Content30- 5 5
+
+86400 Node: 7 list of delivered contents per channel: 
+Content25- 3 5
+Content27- 5 5
+
+86400 Node: 8 list of delivered contents per channel: 
+Content24- 4 5
+Content28- 5 5
+
+86400 Node: 9 list of delivered contents per channel: 
+Content24- 5 5
+Content30- 5 5
+
+86400 Node: 10 list of delivered contents per channel: 
+Content23- 4 5
+Content26- 3 5
+
+86400 Node: 11 list of delivered contents per channel: 
+Content22- 4 5
+Content27- 3 5
+
+86400 Node: 12 list of delivered contents per channel: 
+Content23- 3 5
+Content28- 4 5
+
+86400 Node: 13 list of delivered contents per channel: 
+Content25- 5 5
+Content29- 4 5
+
+86400 Node: 14 list of delivered contents per channel: 
+Content23- 4 5
+Content29- 4 5
+
+86400 Node: 15 list of delivered contents per channel: 
+Content35- 5 5
+Content38- 4 5
+
+86400 Node: 16 list of delivered contents per channel: 
+Content35- 4 5
+Content37- 3 5
+
+86400 Node: 17 list of delivered contents per channel: 
+Content32- 5 5
+Content38- 4 5
+
+86400 Node: 18 list of delivered contents per channel: 
+Content32- 3 5
+Content36- 5 5
+
+86400 Node: 19 list of delivered contents per channel: 
+Content33- 5 5
+Content39- 5 5
+
+86400 Node: 20 list of delivered contents per channel: 
+Content32- 5 5
+Content38- 4 5
+
+86400 Node: 21 list of delivered contents per channel: 
+Content34- 3 5
+Content37- 3 5
+
+86400 Node: 22 list of delivered contents per channel: 
+Content34- 3 5
+Content38- 4 5
+
+86400 Node: 23 list of delivered contents per channel: 
+Content33- 5 5
+Content37- 4 5
+
+86400 Node: 24 list of delivered contents per channel: 
+Content32- 3 5
+Content40- 4 5
+
+86400 Node: 25 list of delivered contents per channel: 
+Content42- 41 100
+Content49- 34 100
+
+86400 Node: 26 list of delivered contents per channel: 
+Content42- 34 100
+Content49- 15 100
+
+86400 Node: 27 list of delivered contents per channel: 
+Content42- 96 100
+Content49- 24 100
+
+86400 Node: 28 list of delivered contents per channel: 
+Content45- 34 100
+Content48- 82 100
+
+86400 Node: 29 list of delivered contents per channel: 
+Content43- 37 100
+Content49- 37 100
+
+86400 Node: 30 list of delivered contents per channel: 
+Content42- 47 100
+Content47- 46 100
+
+86400 Node: 31 list of delivered contents per channel: 
+Content45- 45 100
+Content49- 29 100
+
+86400 Node: 32 list of delivered contents per channel: 
+Content43- 33 100
+Content49- 25 100
+
+86400 Node: 33 list of delivered contents per channel: 
+Content43- 59 100
+Content49- 22 100
+
+86400 Node: 34 list of delivered contents per channel: 
+Content42- 33 100
+Content48- 30 100
+
+86400 Node: 35 list of delivered contents per channel: 
+Content2- 5 5
+Content7- 5 5
+
+86400 Node: 36 list of delivered contents per channel: 
+Content5- 4 5
+Content7- 3 5
+
+86400 Node: 37 list of delivered contents per channel: 
+Content5- 3 5
+Content7- 5 5
+
+86400 Node: 38 list of delivered contents per channel: 
+Content4- 4 5
+Content6- 4 5
+
+86400 Node: 39 list of delivered contents per channel: 
+Content10- 5 5
+Content2- 4 5
+
+86400 Node: 40 list of delivered contents per channel: 
+Content5- 5 5
+Content7- 5 5
+
+86400 Node: 41 list of delivered contents per channel: 
+Content2- 4 5
+Content9- 4 5
+
+86400 Node: 42 list of delivered contents per channel: 
+Content2- 5 5
+Content8- 4 5
+
+86400 Node: 43 list of delivered contents per channel: 
+Content4- 4 5
+Content9- 4 5
+
+86400 Node: 44 list of delivered contents per channel: 
+Content5- 4 5
+Content9- 5 5
+
+86400 Node: 45 list of delivered contents per channel: 
+Content13- 5 5
+Content18- 5 5
+
+86400 Node: 46 list of delivered contents per channel: 
+Content15- 3 5
+Content18- 3 5
+
+86400 Node: 47 list of delivered contents per channel: 
+Content12- 3 5
+Content17- 4 5
+
+86400 Node: 48 list of delivered contents per channel: 
+Content12- 5 5
+Content17- 5 5
+
+86400 Node: 49 list of delivered contents per channel: 
+Content15- 5 5
+Content19- 5 5
+
+86400 Node: 1 list of delivered contents per channel: 
+Content15- 5 5
+Content20- 5 5
+
+86400 Node: 2 list of delivered contents per channel: 
+Content13- 4 5
+Content19- 3 5
+
+86400 Node: 3 list of delivered contents per channel: 
+Content15- 5 5
+Content16- 4 5
+
+86400 Node: 4 list of delivered contents per channel: 
+Content15- 5 5
+Content17- 3 5
+
+86400 Node: 5 list of delivered contents per channel: 
+Content22- 4 5
+Content28- 4 5
+
+86400 Node: 6 list of delivered contents per channel: 
+Content23- 4 5
+Content30- 5 5
+
+86400 Node: 7 list of delivered contents per channel: 
+Content25- 3 5
+Content27- 5 5
+
+86400 Node: 8 list of delivered contents per channel: 
+Content24- 5 5
+Content28- 5 5
+
+86400 Node: 9 list of delivered contents per channel: 
+Content24- 5 5
+Content30- 5 5
+
+86400 Node: 10 list of delivered contents per channel: 
+Content23- 4 5
+Content26- 3 5
+
+86400 Node: 11 list of delivered contents per channel: 
+Content22- 4 5
+Content27- 3 5
+
+86400 Node: 12 list of delivered contents per channel: 
+Content23- 4 5
+Content28- 4 5
+
+86400 Node: 13 list of delivered contents per channel: 
+Content25- 5 5
+Content29- 4 5
+
+86400 Node: 14 list of delivered contents per channel: 
+Content23- 4 5
+Content29- 4 5
+
+86400 Node: 15 list of delivered contents per channel: 
+Content35- 5 5
+Content38- 5 5
+
+86400 Node: 16 list of delivered contents per channel: 
+Content35- 3 5
+Content37- 3 5
+
+86400 Node: 17 list of delivered contents per channel: 
+Content32- 5 5
+Content38- 3 5
+
+86400 Node: 18 list of delivered contents per channel: 
+Content32- 4 5
+Content36- 4 5
+
+86400 Node: 19 list of delivered contents per channel: 
+Content33- 4 5
+Content39- 5 5
+
+86400 Node: 20 list of delivered contents per channel: 
+Content32- 5 5
+Content38- 5 5
+
+86400 Node: 21 list of delivered contents per channel: 
+Content34- 3 5
+Content37- 3 5
+
+86400 Node: 22 list of delivered contents per channel: 
+Content34- 3 5
+Content38- 3 5
+
+86400 Node: 23 list of delivered contents per channel: 
+Content33- 5 5
+Content37- 4 5
+
+86400 Node: 24 list of delivered contents per channel: 
+Content32- 3 5
+Content40- 5 5
+
+86400 Node: 25 list of delivered contents per channel: 
+Content42- 37 100
+Content49- 19 100
+
+86400 Node: 26 list of delivered contents per channel: 
+Content42- 32 100
+Content49- 8 100
+
+86400 Node: 27 list of delivered contents per channel: 
+Content42- 96 100
+Content49- 10 100
+
+86400 Node: 28 list of delivered contents per channel: 
+Content45- 41 100
+Content48- 87 100
+
+86400 Node: 29 list of delivered contents per channel: 
+Content43- 32 100
+Content49- 31 100
+
+86400 Node: 30 list of delivered contents per channel: 
+Content42- 41 100
+Content47- 42 100
+
+86400 Node: 31 list of delivered contents per channel: 
+Content45- 35 100
+Content49- 14 100
+
+86400 Node: 32 list of delivered contents per channel: 
+Content43- 23 100
+Content49- 12 100
+
+86400 Node: 33 list of delivered contents per channel: 
+Content43- 57 100
+Content49- 20 100
+
+86400 Node: 34 list of delivered contents per channel: 
+Content42- 24 100
+Content48- 22 100
+
+86400 Node: 35 list of delivered contents per channel: 
+Content2- 5 5
+Content7- 5 5
+
+86400 Node: 36 list of delivered contents per channel: 
+Content5- 4 5
+Content7- 4 5
+
+86400 Node: 37 list of delivered contents per channel: 
+Content5- 3 5
+Content7- 5 5
+
+86400 Node: 38 list of delivered contents per channel: 
+Content4- 4 5
+Content6- 3 5
+
+86400 Node: 39 list of delivered contents per channel: 
+Content10- 4 5
+Content2- 4 5
+
+86400 Node: 40 list of delivered contents per channel: 
+Content5- 5 5
+Content7- 5 5
+
+86400 Node: 41 list of delivered contents per channel: 
+Content2- 3 5
+Content9- 3 5
+
+86400 Node: 42 list of delivered contents per channel: 
+Content2- 5 5
+Content8- 3 5
+
+86400 Node: 43 list of delivered contents per channel: 
+Content4- 5 5
+Content9- 5 5
+
+86400 Node: 44 list of delivered contents per channel: 
+Content5- 5 5
+Content9- 5 5
+
+86400 Node: 45 list of delivered contents per channel: 
+Content13- 4 5
+Content18- 4 5
+
+86400 Node: 46 list of delivered contents per channel: 
+Content15- 3 5
+Content18- 3 5
+
+86400 Node: 47 list of delivered contents per channel: 
+Content12- 3 5
+Content17- 4 5
+
+86400 Node: 48 list of delivered contents per channel: 
+Content12- 5 5
+Content17- 5 5
+
+86400 Node: 49 list of delivered contents per channel: 
+Content15- 5 5
+Content19- 5 5
+
+86400 Node: 1 list of delivered contents per channel: 
+Content15- 5 5
+Content20- 4 5
+
+86400 Node: 2 list of delivered contents per channel: 
+Content13- 3 5
+Content19- 2 5
+
+86400 Node: 3 list of delivered contents per channel: 
+Content15- 5 5
+Content16- 5 5
+
+86400 Node: 4 list of delivered contents per channel: 
+Content15- 5 5
+Content17- 4 5
+
+86400 Node: 5 list of delivered contents per channel: 
+Content22- 4 5
+Content28- 5 5
+
+86400 Node: 6 list of delivered contents per channel: 
+Content23- 4 5
+Content30- 5 5
+
+86400 Node: 7 list of delivered contents per channel: 
+Content25- 3 5
+Content27- 5 5
+
+86400 Node: 8 list of delivered contents per channel: 
+Content24- 5 5
+Content28- 5 5
+
+86400 Node: 9 list of delivered contents per channel: 
+Content24- 5 5
+Content30- 5 5
+
+86400 Node: 10 list of delivered contents per channel: 
+Content23- 5 5
+Content26- 3 5
+
+86400 Node: 11 list of delivered contents per channel: 
+Content22- 3 5
+Content27- 3 5
+
+86400 Node: 12 list of delivered contents per channel: 
+Content23- 4 5
+Content28- 3 5
+
+86400 Node: 13 list of delivered contents per channel: 
+Content25- 3 5
+Content29- 4 5
+
+86400 Node: 14 list of delivered contents per channel: 
+Content23- 4 5
+Content29- 4 5
+
+86400 Node: 15 list of delivered contents per channel: 
+Content35- 5 5
+Content38- 4 5
+
+86400 Node: 16 list of delivered contents per channel: 
+Content35- 4 5
+Content37- 3 5
+
+86400 Node: 17 list of delivered contents per channel: 
+Content32- 5 5
+Content38- 3 5
+
+86400 Node: 18 list of delivered contents per channel: 
+Content32- 4 5
+Content36- 4 5
+
+86400 Node: 19 list of delivered contents per channel: 
+Content33- 4 5
+Content39- 5 5
+
+86400 Node: 20 list of delivered contents per channel: 
+Content32- 4 5
+Content38- 4 5
+
+86400 Node: 21 list of delivered contents per channel: 
+Content34- 2 5
+Content37- 3 5
+
+86400 Node: 22 list of delivered contents per channel: 
+Content34- 3 5
+Content38- 3 5
+
+86400 Node: 23 list of delivered contents per channel: 
+Content33- 5 5
+Content37- 4 5
+
+86400 Node: 24 list of delivered contents per channel: 
+Content32- 4 5
+Content40- 5 5
+
+86400 Node: 25 list of delivered contents per channel: 
+Content42- 41 100
+Content49- 31 100
+
+86400 Node: 26 list of delivered contents per channel: 
+Content42- 40 100
+Content49- 11 100
+
+86400 Node: 27 list of delivered contents per channel: 
+Content42- 97 100
+Content49- 15 100
+
+86400 Node: 28 list of delivered contents per channel: 
+Content45- 47 100
+Content48- 85 100
+
+86400 Node: 29 list of delivered contents per channel: 
+Content43- 32 100
+Content49- 33 100
+
+86400 Node: 30 list of delivered contents per channel: 
+Content42- 51 100
+Content47- 39 100
+
+86400 Node: 31 list of delivered contents per channel: 
+Content45- 47 100
+Content49- 22 100
+
+86400 Node: 32 list of delivered contents per channel: 
+Content43- 30 100
+Content49- 15 100
+
+86400 Node: 33 list of delivered contents per channel: 
+Content43- 60 100
+Content49- 25 100
+
+86400 Node: 34 list of delivered contents per channel: 
+Content42- 33 100
+Content48- 33 100
+
+86400 Node: 35 list of delivered contents per channel: 
+Content2- 5 5
+Content7- 5 5
+
+86400 Node: 36 list of delivered contents per channel: 
+Content5- 5 5
+Content7- 4 5
+
+86400 Node: 37 list of delivered contents per channel: 
+Content5- 3 5
+Content7- 5 5
+
+86400 Node: 38 list of delivered contents per channel: 
+Content4- 4 5
+Content6- 4 5
+
+86400 Node: 39 list of delivered contents per channel: 
+Content10- 4 5
+Content2- 4 5
+
+86400 Node: 40 list of delivered contents per channel: 
+Content5- 5 5
+Content7- 5 5
+
+86400 Node: 41 list of delivered contents per channel: 
+Content2- 3 5
+Content9- 4 5
+
+86400 Node: 42 list of delivered contents per channel: 
+Content2- 5 5
+Content8- 3 5
+
+86400 Node: 43 list of delivered contents per channel: 
+Content4- 4 5
+Content9- 5 5
+
+86400 Node: 44 list of delivered contents per channel: 
+Content5- 5 5
+Content9- 5 5
+
+86400 Node: 45 list of delivered contents per channel: 
+Content13- 5 5
+Content18- 5 5
+
+86400 Node: 46 list of delivered contents per channel: 
+Content15- 2 5
+Content18- 2 5
+
+86400 Node: 47 list of delivered contents per channel: 
+Content12- 3 5
+Content17- 3 5
+
+86400 Node: 48 list of delivered contents per channel: 
+Content12- 5 5
+Content17- 5 5
+
+86400 Node: 49 list of delivered contents per channel: 
+Content15- 5 5
+Content19- 5 5
+
+86400 Node: 1 list of delivered contents per channel: 
+Content15- 5 5
+Content20- 5 5
+
+86400 Node: 2 list of delivered contents per channel: 
+Content13- 3 5
+Content19- 2 5
+
+86400 Node: 3 list of delivered contents per channel: 
+Content15- 5 5
+Content16- 4 5
+
+86400 Node: 4 list of delivered contents per channel: 
+Content15- 5 5
+Content17- 4 5
+
+86400 Node: 5 list of delivered contents per channel: 
+Content22- 4 5
+Content28- 4 5
+
+86400 Node: 6 list of delivered contents per channel: 
+Content23- 4 5
+Content30- 5 5
+
+86400 Node: 7 list of delivered contents per channel: 
+Content25- 3 5
+Content27- 5 5
+
+86400 Node: 8 list of delivered contents per channel: 
+Content24- 4 5
+Content28- 5 5
+
+86400 Node: 9 list of delivered contents per channel: 
+Content24- 5 5
+Content30- 5 5
+
+86400 Node: 10 list of delivered contents per channel: 
+Content23- 4 5
+Content26- 4 5
+
+86400 Node: 11 list of delivered contents per channel: 
+Content22- 4 5
+Content27- 4 5
+
+86400 Node: 12 list of delivered contents per channel: 
+Content23- 4 5
+Content28- 2 5
+
+86400 Node: 13 list of delivered contents per channel: 
+Content25- 5 5
+Content29- 4 5
+
+86400 Node: 14 list of delivered contents per channel: 
+Content23- 4 5
+Content29- 4 5
+
+86400 Node: 15 list of delivered contents per channel: 
+Content35- 5 5
+Content38- 5 5
+
+86400 Node: 16 list of delivered contents per channel: 
+Content35- 5 5
+Content37- 3 5
+
+86400 Node: 17 list of delivered contents per channel: 
+Content32- 5 5
+Content38- 3 5
+
+86400 Node: 18 list of delivered contents per channel: 
+Content32- 4 5
+Content36- 4 5
+
+86400 Node: 19 list of delivered contents per channel: 
+Content33- 4 5
+Content39- 5 5
+
+86400 Node: 20 list of delivered contents per channel: 
+Content32- 5 5
+Content38- 4 5
+
+86400 Node: 21 list of delivered contents per channel: 
+Content34- 3 5
+Content37- 3 5
+
+86400 Node: 22 list of delivered contents per channel: 
+Content34- 3 5
+Content38- 3 5
+
+86400 Node: 23 list of delivered contents per channel: 
+Content33- 5 5
+Content37- 4 5
+
+86400 Node: 24 list of delivered contents per channel: 
+Content32- 4 5
+Content40- 3 5
+
+86400 Node: 25 list of delivered contents per channel: 
+Content42- 37 100
+Content49- 35 100
+
+86400 Node: 26 list of delivered contents per channel: 
+Content42- 38 100
+Content49- 17 100
+
+86400 Node: 27 list of delivered contents per channel: 
+Content42- 97 100
+Content49- 16 100
+
+86400 Node: 28 list of delivered contents per channel: 
+Content45- 36 100
+Content48- 84 100
+
+86400 Node: 29 list of delivered contents per channel: 
+Content43- 30 100
+Content49- 40 100
+
+86400 Node: 30 list of delivered contents per channel: 
+Content42- 42 100
+Content47- 41 100
+
+86400 Node: 31 list of delivered contents per channel: 
+Content45- 48 100
+Content49- 21 100
+
+86400 Node: 32 list of delivered contents per channel: 
+Content43- 19 100
+Content49- 16 100
+
+86400 Node: 33 list of delivered contents per channel: 
+Content43- 66 100
+Content49- 20 100
+
+86400 Node: 34 list of delivered contents per channel: 
+Content42- 39 100
+Content48- 31 100
+
+86400 Node: 35 list of delivered contents per channel: 
+Content2- 5 5
+Content7- 5 5
+
+86400 Node: 36 list of delivered contents per channel: 
+Content5- 5 5
+Content7- 3 5
+
+86400 Node: 37 list of delivered contents per channel: 
+Content5- 3 5
+Content7- 5 5
+
+86400 Node: 38 list of delivered contents per channel: 
+Content4- 5 5
+Content6- 3 5
+
+86400 Node: 39 list of delivered contents per channel: 
+Content10- 5 5
+Content2- 4 5
+
+86400 Node: 40 list of delivered contents per channel: 
+Content5- 5 5
+Content7- 5 5
+
+86400 Node: 41 list of delivered contents per channel: 
+Content2- 3 5
+Content9- 4 5
+
+86400 Node: 42 list of delivered contents per channel: 
+Content2- 5 5
+Content8- 3 5
+
+86400 Node: 43 list of delivered contents per channel: 
+Content4- 5 5
+Content9- 4 5
+
+86400 Node: 44 list of delivered contents per channel: 
+Content5- 5 5
+Content9- 5 5
+
+86400 Node: 45 list of delivered contents per channel: 
+Content13- 5 5
+Content18- 5 5
+
+86400 Node: 46 list of delivered contents per channel: 
+Content15- 3 5
+Content18- 2 5
+
+86400 Node: 47 list of delivered contents per channel: 
+Content12- 3 5
+Content17- 4 5
+
+86400 Node: 48 list of delivered contents per channel: 
+Content12- 3 5
+Content17- 5 5
+
+86400 Node: 49 list of delivered contents per channel: 
+Content15- 5 5
+Content19- 5 5
+
+86400 Node: 1 list of delivered contents per channel: 
+Content15- 4 5
+Content20- 5 5
+
+86400 Node: 2 list of delivered contents per channel: 
+Content13- 3 5
+Content19- 3 5
+
+86400 Node: 3 list of delivered contents per channel: 
+Content15- 5 5
+Content16- 5 5
+
+86400 Node: 4 list of delivered contents per channel: 
+Content15- 4 5
+Content17- 4 5
+
+86400 Node: 5 list of delivered contents per channel: 
+Content22- 5 5
+Content28- 5 5
+
+86400 Node: 6 list of delivered contents per channel: 
+Content23- 4 5
+Content30- 5 5
+
+86400 Node: 7 list of delivered contents per channel: 
+Content25- 3 5
+Content27- 5 5
+
+86400 Node: 8 list of delivered contents per channel: 
+Content24- 5 5
+Content28- 5 5
+
+86400 Node: 9 list of delivered contents per channel: 
+Content24- 5 5
+Content30- 5 5
+
+86400 Node: 10 list of delivered contents per channel: 
+Content23- 5 5
+Content26- 4 5
+
+86400 Node: 11 list of delivered contents per channel: 
+Content22- 4 5
+Content27- 3 5
+
+86400 Node: 12 list of delivered contents per channel: 
+Content23- 3 5
+Content28- 4 5
+
+86400 Node: 13 list of delivered contents per channel: 
+Content25- 5 5
+Content29- 4 5
+
+86400 Node: 14 list of delivered contents per channel: 
+Content23- 5 5
+Content29- 4 5
+
+86400 Node: 15 list of delivered contents per channel: 
+Content35- 5 5
+Content38- 5 5
+
+86400 Node: 16 list of delivered contents per channel: 
+Content35- 5 5
+Content37- 3 5
+
+86400 Node: 17 list of delivered contents per channel: 
+Content32- 5 5
+Content38- 3 5
+
+86400 Node: 18 list of delivered contents per channel: 
+Content32- 4 5
+Content36- 5 5
+
+86400 Node: 19 list of delivered contents per channel: 
+Content33- 5 5
+Content39- 5 5
+
+86400 Node: 20 list of delivered contents per channel: 
+Content32- 5 5
+Content38- 4 5
+
+86400 Node: 21 list of delivered contents per channel: 
+Content34- 3 5
+Content37- 3 5
+
+86400 Node: 22 list of delivered contents per channel: 
+Content34- 3 5
+Content38- 3 5
+
+86400 Node: 23 list of delivered contents per channel: 
+Content33- 5 5
+Content37- 4 5
+
+86400 Node: 24 list of delivered contents per channel: 
+Content32- 4 5
+Content40- 4 5
+
+86400 Node: 25 list of delivered contents per channel: 
+Content42- 40 100
+Content49- 26 100
+
+86400 Node: 26 list of delivered contents per channel: 
+Content42- 39 100
+Content49- 11 100
+
+86400 Node: 27 list of delivered contents per channel: 
+Content42- 96 100
+Content49- 10 100
+
+86400 Node: 28 list of delivered contents per channel: 
+Content45- 37 100
+Content48- 80 100
+
+86400 Node: 29 list of delivered contents per channel: 
+Content43- 39 100
+Content49- 34 100
+
+86400 Node: 30 list of delivered contents per channel: 
+Content42- 47 100
+Content47- 43 100
+
+86400 Node: 31 list of delivered contents per channel: 
+Content45- 43 100
+Content49- 19 100
+
+86400 Node: 32 list of delivered contents per channel: 
+Content43- 31 100
+Content49- 10 100
+
+86400 Node: 33 list of delivered contents per channel: 
+Content43- 63 100
+Content49- 18 100
+
+86400 Node: 34 list of delivered contents per channel: 
+Content42- 37 100
+Content48- 35 100
+
+86400 Node: 35 list of delivered contents per channel: 
+Content2- 5 5
+Content7- 5 5
+
+86400 Node: 36 list of delivered contents per channel: 
+Content5- 5 5
+Content7- 4 5
+
+86400 Node: 37 list of delivered contents per channel: 
+Content5- 3 5
+Content7- 5 5
+
+86400 Node: 38 list of delivered contents per channel: 
+Content4- 5 5
+Content6- 4 5
+
+86400 Node: 39 list of delivered contents per channel: 
+Content10- 5 5
+Content2- 4 5
+
+86400 Node: 40 list of delivered contents per channel: 
+Content5- 5 5
+Content7- 5 5
+
+86400 Node: 41 list of delivered contents per channel: 
+Content2- 4 5
+Content9- 5 5
+
+86400 Node: 42 list of delivered contents per channel: 
+Content2- 5 5
+Content8- 3 5
+
+86400 Node: 43 list of delivered contents per channel: 
+Content4- 4 5
+Content9- 5 5
+
+86400 Node: 44 list of delivered contents per channel: 
+Content5- 5 5
+Content9- 5 5
+
+86400 Node: 45 list of delivered contents per channel: 
+Content13- 4 5
+Content18- 5 5
+
+86400 Node: 46 list of delivered contents per channel: 
+Content15- 3 5
+Content18- 3 5
+
+86400 Node: 47 list of delivered contents per channel: 
+Content12- 3 5
+Content17- 3 5
+
+86400 Node: 48 list of delivered contents per channel: 
+Content12- 5 5
+Content17- 5 5
+
+86400 Node: 49 list of delivered contents per channel: 
+Content15- 5 5
+Content19- 5 5
+
+86400 Node: 1 list of delivered contents per channel: 
+Content15- 5 5
+Content20- 5 5
+
+86400 Node: 2 list of delivered contents per channel: 
+Content13- 4 5
+Content19- 3 5
+
+86400 Node: 3 list of delivered contents per channel: 
+Content15- 5 5
+Content16- 5 5
+
+86400 Node: 4 list of delivered contents per channel: 
+Content15- 5 5
+Content17- 4 5
+
+86400 Node: 5 list of delivered contents per channel: 
+Content22- 5 5
+Content28- 5 5
+
+86400 Node: 6 list of delivered contents per channel: 
+Content23- 4 5
+Content30- 5 5
+
+86400 Node: 7 list of delivered contents per channel: 
+Content25- 3 5
+Content27- 5 5
+
+86400 Node: 8 list of delivered contents per channel: 
+Content24- 4 5
+Content28- 5 5
+
+86400 Node: 9 list of delivered contents per channel: 
+Content24- 5 5
+Content30- 5 5
+
+86400 Node: 10 list of delivered contents per channel: 
+Content23- 4 5
+Content26- 4 5
+
+86400 Node: 11 list of delivered contents per channel: 
+Content22- 4 5
+Content27- 4 5
+
+86400 Node: 12 list of delivered contents per channel: 
+Content23- 4 5
+Content28- 4 5
+
+86400 Node: 13 list of delivered contents per channel: 
+Content25- 4 5
+Content29- 4 5
+
+86400 Node: 14 list of delivered contents per channel: 
+Content23- 4 5
+Content29- 4 5
+
+86400 Node: 15 list of delivered contents per channel: 
+Content35- 5 5
+Content38- 5 5
+
+86400 Node: 16 list of delivered contents per channel: 
+Content35- 5 5
+Content37- 4 5
+
+86400 Node: 17 list of delivered contents per channel: 
+Content32- 5 5
+Content38- 3 5
+
+86400 Node: 18 list of delivered contents per channel: 
+Content32- 4 5
+Content36- 5 5
+
+86400 Node: 19 list of delivered contents per channel: 
+Content33- 5 5
+Content39- 5 5
+
+86400 Node: 20 list of delivered contents per channel: 
+Content32- 5 5
+Content38- 4 5
+
+86400 Node: 21 list of delivered contents per channel: 
+Content34- 3 5
+Content37- 3 5
+
+86400 Node: 22 list of delivered contents per channel: 
+Content34- 3 5
+Content38- 3 5
+
+86400 Node: 23 list of delivered contents per channel: 
+Content33- 5 5
+Content37- 4 5
+
+86400 Node: 24 list of delivered contents per channel: 
+Content32- 4 5
+Content40- 5 5
+
+86400 Node: 25 list of delivered contents per channel: 
+Content42- 41 100
+Content49- 23 100
+
+86400 Node: 26 list of delivered contents per channel: 
+Content42- 39 100
+Content49- 14 100
+
+86400 Node: 27 list of delivered contents per channel: 
+Content42- 98 100
+Content49- 13 100
+
+86400 Node: 28 list of delivered contents per channel: 
+Content45- 35 100
+Content48- 87 100
+
+86400 Node: 29 list of delivered contents per channel: 
+Content43- 29 100
+Content49- 35 100
+
+86400 Node: 30 list of delivered contents per channel: 
+Content42- 49 100
+Content47- 43 100
+
+86400 Node: 31 list of delivered contents per channel: 
+Content45- 46 100
+Content49- 18 100
+
+86400 Node: 32 list of delivered contents per channel: 
+Content43- 23 100
+Content49- 14 100
+
+86400 Node: 33 list of delivered contents per channel: 
+Content43- 62 100
+Content49- 19 100
+
+86400 Node: 34 list of delivered contents per channel: 
+Content42- 40 100
+Content48- 37 100
+
+86400 Node: 35 list of delivered contents per channel: 
+Content2- 5 5
+Content7- 5 5
+
+86400 Node: 36 list of delivered contents per channel: 
+Content5- 5 5
+Content7- 4 5
+
+86400 Node: 37 list of delivered contents per channel: 
+Content5- 3 5
+Content7- 5 5
+
+86400 Node: 38 list of delivered contents per channel: 
+Content4- 5 5
+Content6- 4 5
+
+86400 Node: 39 list of delivered contents per channel: 
+Content10- 4 5
+Content2- 4 5
+
+86400 Node: 40 list of delivered contents per channel: 
+Content5- 5 5
+Content7- 5 5
+
+86400 Node: 41 list of delivered contents per channel: 
+Content2- 4 5
+Content9- 5 5
+
+86400 Node: 42 list of delivered contents per channel: 
+Content2- 5 5
+Content8- 3 5
+
+86400 Node: 43 list of delivered contents per channel: 
+Content4- 5 5
+Content9- 5 5
+
+86400 Node: 44 list of delivered contents per channel: 
+Content5- 4 5
+Content9- 5 5
+
+86400 Node: 45 list of delivered contents per channel: 
+Content13- 5 5
+Content18- 5 5
+
+86400 Node: 46 list of delivered contents per channel: 
+Content15- 3 5
+Content18- 3 5
+
+86400 Node: 47 list of delivered contents per channel: 
+Content12- 3 5
+Content17- 3 5
+
+86400 Node: 48 list of delivered contents per channel: 
+Content12- 4 5
+Content17- 5 5
+
+86400 Node: 49 list of delivered contents per channel: 
+Content15- 5 5
+Content19- 5 5
+
+86400 Node: 1 list of delivered contents per channel: 
+Content15- 3 5
+Content20- 3 5
+
+86400 Node: 2 list of delivered contents per channel: 
+Content13- 3 5
+Content19- 2 5
+
+86400 Node: 3 list of delivered contents per channel: 
+Content15- 5 5
+Content16- 3 5
+
+86400 Node: 4 list of delivered contents per channel: 
+Content15- 4 5
+Content17- 4 5
+
+86400 Node: 5 list of delivered contents per channel: 
+Content22- 3 5
+Content28- 4 5
+
+86400 Node: 6 list of delivered contents per channel: 
+Content23- 3 5
+Content30- 3 5
+
+86400 Node: 7 list of delivered contents per channel: 
+Content25- 3 5
+Content27- 5 5
+
+86400 Node: 8 list of delivered contents per channel: 
+Content24- 4 5
+Content28- 5 5
+
+86400 Node: 9 list of delivered contents per channel: 
+Content24- 5 5
+Content30- 4 5
+
+86400 Node: 10 list of delivered contents per channel: 
+Content23- 3 5
+Content26- 3 5
+
+86400 Node: 11 list of delivered contents per channel: 
+Content22- 3 5
+Content27- 3 5
+
+86400 Node: 12 list of delivered contents per channel: 
+Content23- 3 5
+Content28- 3 5
+
+86400 Node: 13 list of delivered contents per channel: 
+Content25- 4 5
+Content29- 3 5
+
+86400 Node: 14 list of delivered contents per channel: 
+Content23- 4 5
+Content29- 4 5
+
+86400 Node: 15 list of delivered contents per channel: 
+Content35- 63 100
+Content38- 22 100
+
+86400 Node: 16 list of delivered contents per channel: 
+Content35- 29 100
+Content37- 19 100
+
+86400 Node: 17 list of delivered contents per channel: 
+Content32- 76 100
+Content38- 25 100
+
+86400 Node: 18 list of delivered contents per channel: 
+Content32- 29 100
+Content36- 26 100
+
+86400 Node: 19 list of delivered contents per channel: 
+Content33- 20 100
+Content39- 99 100
+
+86400 Node: 20 list of delivered contents per channel: 
+Content32- 35 100
+Content38- 24 100
+
+86400 Node: 21 list of delivered contents per channel: 
+Content34- 14 100
+Content37- 16 100
+
+86400 Node: 22 list of delivered contents per channel: 
+Content34- 15 100
+Content38- 30 100
+
+86400 Node: 23 list of delivered contents per channel: 
+Content33- 85 100
+Content37- 24 100
+
+86400 Node: 24 list of delivered contents per channel: 
+Content32- 25 100
+Content40- 28 100
+
+86400 Node: 25 list of delivered contents per channel: 
+Content42- 26 100
+Content49- 14 100
+
+86400 Node: 26 list of delivered contents per channel: 
+Content42- 21 100
+Content49- 5 100
+
+86400 Node: 27 list of delivered contents per channel: 
+Content42- 96 100
+Content49- 5 100
+
+86400 Node: 28 list of delivered contents per channel: 
+Content45- 29 100
+Content48- 82 100
+
+86400 Node: 29 list of delivered contents per channel: 
+Content43- 19 100
+Content49- 19 100
+
+86400 Node: 30 list of delivered contents per channel: 
+Content42- 31 100
+Content47- 27 100
+
+86400 Node: 31 list of delivered contents per channel: 
+Content45- 11 100
+Content49- 4 100
+
+86400 Node: 32 list of delivered contents per channel: 
+Content43- 23 100
+Content49- 5 100
+
+86400 Node: 33 list of delivered contents per channel: 
+Content43- 45 100
+Content49- 10 100
+
+86400 Node: 34 list of delivered contents per channel: 
+Content42- 13 100
+Content48- 16 100
+
+86400 Node: 35 list of delivered contents per channel: 
+Content2- 3 5
+Content7- 3 5
+
+86400 Node: 36 list of delivered contents per channel: 
+Content5- 4 5
+Content7- 3 5
+
+86400 Node: 37 list of delivered contents per channel: 
+Content5- 3 5
+Content7- 5 5
+
+86400 Node: 38 list of delivered contents per channel: 
+Content4- 3 5
+Content6- 4 5
+
+86400 Node: 39 list of delivered contents per channel: 
+Content10- 4 5
+Content2- 3 5
+
+86400 Node: 40 list of delivered contents per channel: 
+Content5- 5 5
+Content7- 3 5
+
+86400 Node: 41 list of delivered contents per channel: 
+Content2- 3 5
+Content9- 4 5
+
+86400 Node: 42 list of delivered contents per channel: 
+Content2- 5 5
+Content8- 3 5
+
+86400 Node: 43 list of delivered contents per channel: 
+Content4- 3 5
+Content9- 4 5
+
+86400 Node: 44 list of delivered contents per channel: 
+Content5- 4 5
+Content9- 5 5
+
+86400 Node: 45 list of delivered contents per channel: 
+Content13- 5 5
+Content18- 5 5
+
+86400 Node: 46 list of delivered contents per channel: 
+Content15- 3 5
+Content18- 3 5
+
+86400 Node: 47 list of delivered contents per channel: 
+Content12- 4 5
+Content17- 4 5
+
+86400 Node: 48 list of delivered contents per channel: 
+Content12- 4 5
+Content17- 4 5
+
+86400 Node: 49 list of delivered contents per channel: 
+Content15- 4 5
+Content19- 5 5
+
+86400 Node: 1 list of delivered contents per channel: 
+Content15- 4 5
+Content20- 4 5
+
+86400 Node: 2 list of delivered contents per channel: 
+Content13- 3 5
+Content19- 3 5
+
+86400 Node: 3 list of delivered contents per channel: 
+Content15- 5 5
+Content16- 3 5
+
+86400 Node: 4 list of delivered contents per channel: 
+Content15- 4 5
+Content17- 3 5
+
+86400 Node: 5 list of delivered contents per channel: 
+Content22- 3 5
+Content28- 3 5
+
+86400 Node: 6 list of delivered contents per channel: 
+Content23- 3 5
+Content30- 4 5
+
+86400 Node: 7 list of delivered contents per channel: 
+Content25- 3 5
+Content27- 5 5
+
+86400 Node: 8 list of delivered contents per channel: 
+Content24- 3 5
+Content28- 5 5
+
+86400 Node: 9 list of delivered contents per channel: 
+Content24- 5 5
+Content30- 4 5
+
+86400 Node: 10 list of delivered contents per channel: 
+Content23- 3 5
+Content26- 3 5
+
+86400 Node: 11 list of delivered contents per channel: 
+Content22- 3 5
+Content27- 3 5
+
+86400 Node: 12 list of delivered contents per channel: 
+Content23- 3 5
+Content28- 3 5
+
+86400 Node: 13 list of delivered contents per channel: 
+Content25- 4 5
+Content29- 4 5
+
+86400 Node: 14 list of delivered contents per channel: 
+Content23- 3 5
+Content29- 4 5
+
+86400 Node: 15 list of delivered contents per channel: 
+Content35- 62 100
+Content38- 31 100
+
+86400 Node: 16 list of delivered contents per channel: 
+Content35- 27 100
+Content37- 28 100
+
+86400 Node: 17 list of delivered contents per channel: 
+Content32- 95 100
+Content38- 24 100
+
+86400 Node: 18 list of delivered contents per channel: 
+Content32- 26 100
+Content36- 22 100
+
+86400 Node: 19 list of delivered contents per channel: 
+Content33- 21 100
+Content39- 99 100
+
+86400 Node: 20 list of delivered contents per channel: 
+Content32- 39 100
+Content38- 33 100
+
+86400 Node: 21 list of delivered contents per channel: 
+Content34- 16 100
+Content37- 26 100
+
+86400 Node: 22 list of delivered contents per channel: 
+Content34- 17 100
+Content38- 32 100
+
+86400 Node: 23 list of delivered contents per channel: 
+Content33- 86 100
+Content37- 26 100
+
+86400 Node: 24 list of delivered contents per channel: 
+Content32- 31 100
+Content40- 44 100
+
+86400 Node: 25 list of delivered contents per channel: 
+Content42- 35 100
+Content49- 19 100
+
+86400 Node: 26 list of delivered contents per channel: 
+Content42- 32 100
+Content49- 10 100
+
+86400 Node: 27 list of delivered contents per channel: 
+Content42- 95 100
+Content49- 11 100
+
+86400 Node: 28 list of delivered contents per channel: 
+Content45- 29 100
+Content48- 83 100
+
+86400 Node: 29 list of delivered contents per channel: 
+Content43- 27 100
+Content49- 31 100
+
+86400 Node: 30 list of delivered contents per channel: 
+Content42- 39 100
+Content47- 24 100
+
+86400 Node: 31 list of delivered contents per channel: 
+Content45- 33 100
+Content49- 13 100
+
+86400 Node: 32 list of delivered contents per channel: 
+Content43- 22 100
+Content49- 11 100
+
+86400 Node: 33 list of delivered contents per channel: 
+Content43- 59 100
+Content49- 17 100
+
+86400 Node: 34 list of delivered contents per channel: 
+Content42- 34 100
+Content48- 28 100
+
+86400 Node: 35 list of delivered contents per channel: 
+Content2- 3 5
+Content7- 3 5
+
+86400 Node: 36 list of delivered contents per channel: 
+Content5- 4 5
+Content7- 3 5
+
+86400 Node: 37 list of delivered contents per channel: 
+Content5- 3 5
+Content7- 5 5
+
+86400 Node: 38 list of delivered contents per channel: 
+Content4- 4 5
+Content6- 3 5
+
+86400 Node: 39 list of delivered contents per channel: 
+Content10- 5 5
+Content2- 3 5
+
+86400 Node: 40 list of delivered contents per channel: 
+Content5- 5 5
+Content7- 3 5
+
+86400 Node: 41 list of delivered contents per channel: 
+Content2- 3 5
+Content9- 3 5
+
+86400 Node: 42 list of delivered contents per channel: 
+Content2- 5 5
+Content8- 3 5
+
+86400 Node: 43 list of delivered contents per channel: 
+Content4- 4 5
+Content9- 3 5
+
+86400 Node: 44 list of delivered contents per channel: 
+Content5- 4 5
+Content9- 5 5
+
+86400 Node: 45 list of delivered contents per channel: 
+Content13- 4 5
+Content18- 5 5
+
+86400 Node: 46 list of delivered contents per channel: 
+Content15- 3 5
+Content18- 3 5
+
+86400 Node: 47 list of delivered contents per channel: 
+Content12- 3 5
+Content17- 4 5
+
+86400 Node: 48 list of delivered contents per channel: 
+Content12- 3 5
+Content17- 4 5
+
+86400 Node: 49 list of delivered contents per channel: 
+Content15- 4 5
+Content19- 5 5
+
+86400 Node: 1 list of delivered contents per channel: 
+Content15- 3 5
+Content20- 3 5
+
+86400 Node: 2 list of delivered contents per channel: 
+Content13- 3 5
+Content19- 3 5
+
+86400 Node: 3 list of delivered contents per channel: 
+Content15- 5 5
+Content16- 3 5
+
+86400 Node: 4 list of delivered contents per channel: 
+Content15- 3 5
+Content17- 2 5
+
+86400 Node: 5 list of delivered contents per channel: 
+Content22- 4 5
+Content28- 5 5
+
+86400 Node: 6 list of delivered contents per channel: 
+Content23- 3 5
+Content30- 3 5
+
+86400 Node: 7 list of delivered contents per channel: 
+Content25- 3 5
+Content27- 5 5
+
+86400 Node: 8 list of delivered contents per channel: 
+Content24- 3 5
+Content28- 5 5
+
+86400 Node: 9 list of delivered contents per channel: 
+Content24- 5 5
+Content30- 5 5
+
+86400 Node: 10 list of delivered contents per channel: 
+Content23- 4 5
+Content26- 4 5
+
+86400 Node: 11 list of delivered contents per channel: 
+Content22- 3 5
+Content27- 3 5
+
+86400 Node: 12 list of delivered contents per channel: 
+Content23- 3 5
+Content28- 3 5
+
+86400 Node: 13 list of delivered contents per channel: 
+Content25- 3 5
+Content29- 4 5
+
+86400 Node: 14 list of delivered contents per channel: 
+Content23- 3 5
+Content29- 4 5
+
+86400 Node: 15 list of delivered contents per channel: 
+Content35- 59 100
+Content38- 24 100
+
+86400 Node: 16 list of delivered contents per channel: 
+Content35- 28 100
+Content37- 18 100
+
+86400 Node: 17 list of delivered contents per channel: 
+Content32- 72 100
+Content38- 22 100
+
+86400 Node: 18 list of delivered contents per channel: 
+Content32- 29 100
+Content36- 22 100
+
+86400 Node: 19 list of delivered contents per channel: 
+Content33- 22 100
+Content39- 90 100
+
+86400 Node: 20 list of delivered contents per channel: 
+Content32- 31 100
+Content38- 25 100
+
+86400 Node: 21 list of delivered contents per channel: 
+Content34- 18 100
+Content37- 14 100
+
+86400 Node: 22 list of delivered contents per channel: 
+Content34- 13 100
+Content38- 21 100
+
+86400 Node: 23 list of delivered contents per channel: 
+Content33- 87 100
+Content37- 21 100
+
+86400 Node: 24 list of delivered contents per channel: 
+Content32- 19 100
+Content40- 40 100
+
+86400 Node: 25 list of delivered contents per channel: 
+Content42- 30 100
+Content49- 15 100
+
+86400 Node: 26 list of delivered contents per channel: 
+Content42- 22 100
+Content49- 10 100
+
+86400 Node: 27 list of delivered contents per channel: 
+Content42- 95 100
+Content49- 16 100
+
+86400 Node: 28 list of delivered contents per channel: 
+Content45- 30 100
+Content48- 82 100
+
+86400 Node: 29 list of delivered contents per channel: 
+Content43- 21 100
+Content49- 18 100
+
+86400 Node: 30 list of delivered contents per channel: 
+Content42- 30 100
+Content47- 35 100
+
+86400 Node: 31 list of delivered contents per channel: 
+Content45- 11 100
+Content49- 6 100
+
+86400 Node: 32 list of delivered contents per channel: 
+Content43- 23 100
+Content49- 16 100
+
+86400 Node: 33 list of delivered contents per channel: 
+Content43- 45 100
+Content49- 16 100
+
+86400 Node: 34 list of delivered contents per channel: 
+Content42- 20 100
+Content48- 25 100
+
+86400 Node: 35 list of delivered contents per channel: 
+Content2- 4 5
+Content7- 3 5
+
+86400 Node: 36 list of delivered contents per channel: 
+Content5- 4 5
+Content7- 3 5
+
+86400 Node: 37 list of delivered contents per channel: 
+Content5- 3 5
+Content7- 5 5
+
+86400 Node: 38 list of delivered contents per channel: 
+Content4- 4 5
+Content6- 2 5
+
+86400 Node: 39 list of delivered contents per channel: 
+Content10- 4 5
+Content2- 3 5
+
+86400 Node: 40 list of delivered contents per channel: 
+Content5- 5 5
+Content7- 3 5
+
+86400 Node: 41 list of delivered contents per channel: 
+Content2- 4 5
+Content9- 2 5
+
+86400 Node: 42 list of delivered contents per channel: 
+Content2- 5 5
+Content8- 3 5
+
+86400 Node: 43 list of delivered contents per channel: 
+Content4- 4 5
+Content9- 3 5
+
+86400 Node: 44 list of delivered contents per channel: 
+Content5- 5 5
+Content9- 5 5
+
+86400 Node: 45 list of delivered contents per channel: 
+Content13- 3 5
+Content18- 3 5
+
+86400 Node: 46 list of delivered contents per channel: 
+Content15- 3 5
+Content18- 2 5
+
+86400 Node: 47 list of delivered contents per channel: 
+Content12- 3 5
+Content17- 3 5
+
+86400 Node: 48 list of delivered contents per channel: 
+Content12- 3 5
+Content17- 3 5
+
+86400 Node: 49 list of delivered contents per channel: 
+Content15- 3 5
+Content19- 5 5
+

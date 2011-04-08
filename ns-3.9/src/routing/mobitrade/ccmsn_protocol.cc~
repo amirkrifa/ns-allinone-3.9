@@ -1,0 +1,270 @@
+#include "ccmsn_protocol.h"
+#include "ccmsn_msg_header.h"
+
+#include "ns3/socket-factory.h"
+#include "ns3/udp-socket-factory.h"
+#include "ns3/simulator.h"
+#include "ns3/random-variable.h"
+#include "ns3/inet-socket-address.h"
+#include "ns3/ipv4-route.h"
+#include "ns3/boolean.h"
+#include "ns3/uinteger.h"
+#include "ns3/enum.h"
+#include "ns3/trace-source-accessor.h"
+#include "ns3/ipv4-header.h"
+#include "ns3/address-utils.h"
+#include "ns3/arp-l3-protocol.h"
+#include "ns3/config.h"
+#include "ns3/udp-header.h"
+
+
+
+
+using namespace std;
+namespace ns3{
+
+NS_LOG_COMPONENT_DEFINE ("ns3::CCMSNProtocol");
+NS_OBJECT_ENSURE_REGISTERED (CCMSNProtocol);
+
+CCMSNProtocol::CCMSNProtocol():helloTimer (Timer::CANCEL_ON_DESTROY),helloInterval(HELLO_INTERVAL)
+{
+  m_defaultRoute = NULL;
+}
+
+CCMSNProtocol::~CCMSNProtocol()
+{
+  if (helloTimer.IsRunning ())
+    {
+      helloTimer.Cancel ();
+    }
+  if(m_defaultRoute != NULL)
+    delete m_defaultRoute;
+}
+
+void CCMSNProtocol::SendHello()
+{
+  Ptr<Packet> packet = Create<Packet> ();
+  // Hello msg Header
+  CCMSNMsgHeader header;
+  header.SetMsgType(0);
+  header.SetMsgTTL(0);
+  header.SetDestAddress(Ipv4Address (0xFFFFFFFF));
+  
+  packet->AddHeader (header);
+  SendPacket (packet, helloSendingSocket);
+  
+  
+}
+
+void CCMSNProtocol::SendPacket (Ptr<Packet> packet, Ptr<Socket> socket)
+{
+  if(socket->Send (packet) == -1)
+   {
+     NS_FATAL_ERROR ("Unable to send packet");
+   }
+}
+
+void CCMSNProtocol::RecvPacket (Ptr<Socket> socket)
+{
+  cout<<"RecvPacket called"<<endl;
+  Ptr<Packet> receivedPacket;
+  Address sourceAddress;
+  receivedPacket = socket->RecvFrom (sourceAddress);
+
+  InetSocketAddress inetSourceAddr = InetSocketAddress::ConvertFrom (sourceAddress);
+  Ipv4Address senderIfaceAddr = inetSourceAddr.GetIpv4 ();
+  InetSocketAddress destAddr = InetSocketAddress::ConvertFrom (sourceAddress);
+  
+cout<<"DTN node " << mainAddress << " received a DTN message from " << senderIfaceAddr<<endl;
+  
+  cout<<"received at port: "<<inetSourceAddr.GetPort ()<<endl;
+  NS_ASSERT (inetSourceAddr.GetPort () == CCMSN_ROUTING_PORT);
+  
+  
+
+  CCMSNMsgHeader header;
+  receivedPacket->RemoveHeader (header);
+
+
+  // We accept either a broadcast hello message or an (Interest/Content) message
+  if (header.GetDestAddress ().IsEqual (Ipv4Address (0xFFFFFFFF)) ||header.GetDestAddress ().IsEqual (mainAddress))
+    {
+      switch (header.GetMessageType ())
+       {
+         case CCMSNMsgHeader::HELLO_MSG:
+           ProcessHelloMsg (receivedPacket, senderIfaceAddr);
+           break;
+         case CCMSNMsgHeader::INTEREST_MSG:
+           ProcessInterestMsg (receivedPacket, senderIfaceAddr);
+           break;
+         case CCMSNMsgHeader::CONTENT_MSG:
+           ProcessContentMsg (receivedPacket, senderIfaceAddr);
+           break;
+         default:
+           break;		
+      }
+   }
+}
+
+Ptr<Ipv4Route> CCMSNProtocol::RouteOutput (Ptr<Packet> p, const Ipv4Header &header, Ptr<NetDevice> oif, Socket::SocketErrno &sockerr)
+{
+  cout<<"RouteOutput called"<<endl;
+ /* cout<< this <<" header: "<< header<<" oif: " << oif;
+  Ipv4Address destination = header.GetDestination ();
+  Ptr<Ipv4Route> rtentry = 0;
+
+  // Multicast goes here
+  if (destination.IsMulticast ())
+    {
+      // Note:  Multicast routes for outbound packets are stored in the
+      // normal unicast table.  An implication of this is that it is not
+      // possible to source multicast datagrams on multiple interfaces.
+      // This is a well-known property of sockets implementation on 
+      // many Unix variants.
+      // So, we just log it and fall through to LookupStatic ()
+      NS_LOG_LOGIC ("RouteOutput()::Multicast destination");
+    }
+  rtentry = LookupStatic (destination, oif);
+  if (rtentry)
+    { 
+      sockerr = Socket::ERROR_NOTERROR;
+    }
+  else
+    { 
+      sockerr = Socket::ERROR_NOROUTETOHOST;
+    }
+*/
+  return NULL;
+}
+
+bool CCMSNProtocol::RouteInput  (Ptr<const Packet> p, const Ipv4Header &ipHeader, Ptr<const NetDevice> idev,UnicastForwardCallback ucb, MulticastForwardCallback mcb, LocalDeliverCallback lcb, ErrorCallback ecb)
+{
+  NS_ASSERT (m_ipv4 != 0);
+  // Check if input device supports IP 
+  NS_ASSERT (m_ipv4->GetInterfaceForDevice (idev) >= 0);
+  uint32_t iif = m_ipv4->GetInterfaceForDevice (idev); 
+
+  if (ipHeader.GetDestination ().IsBroadcast () || ipHeader.GetDestination ().IsEqual (Ipv4Address ("10.1.1.255")))
+    {
+      Ptr<Packet> packetCopy = p->Copy();
+      lcb (packetCopy, ipHeader, iif);
+      return true;
+    }
+
+  cout<<"Received an Unkown packet, don't know what to do with it."<<endl;  
+  cout<<this << p <<" header: "<< ipHeader<<" source: " << ipHeader.GetSource ()<<" destination: " << ipHeader.GetDestination () <<" dev:  "<< idev<<endl;
+  return false;
+}
+
+void CCMSNProtocol::NotifyInterfaceUp (uint32_t interface)
+{
+}
+
+void CCMSNProtocol::NotifyInterfaceDown (uint32_t interface)
+{
+}
+
+void CCMSNProtocol::NotifyAddAddress (uint32_t interface, Ipv4InterfaceAddress address)
+{
+}
+
+void CCMSNProtocol::NotifyRemoveAddress (uint32_t interface, Ipv4InterfaceAddress address)
+{
+
+}
+
+void CCMSNProtocol::Start()
+{
+  // Initializing the local main address
+  if (mainAddress == Ipv4Address ())
+  {
+    Ipv4Address loopback ("127.0.0.1");
+    for (uint32_t i = 0; i < m_ipv4->GetNInterfaces (); i++)
+    {
+      // Use primary address, if multiple
+      Ipv4Address addr = m_ipv4->GetAddress (i, 0).GetLocal ();
+      if (addr != loopback)
+      {
+        mainAddress = addr;
+        break;
+      }
+    }
+    NS_ASSERT (mainAddress != Ipv4Address ());
+  }
+  SetDefaultRoute (mainAddress, 0);
+  // Create a socket to listen on the local interface for incomming messages
+  listeningSocket = Socket::CreateSocket (GetObject<Node> (), UdpSocketFactory::GetTypeId());
+  listeningSocket->SetRecvCallback (MakeCallback (&CCMSNProtocol::RecvPacket, this));
+  if (listeningSocket->Bind (InetSocketAddress (mainAddress, CCMSN_ROUTING_PORT)))
+   {
+     NS_FATAL_ERROR ("Failed to bind() CCMSN Protocl receive socket");
+   }
+   cout<<"Lisning at: "<<mainAddress<<":"<<CCMSN_ROUTING_PORT<<endl;
+  // Creating the scoket that will be used for sending hello messages
+  helloSendingSocket = Socket::CreateSocket (GetObject<Node> (), UdpSocketFactory::GetTypeId());
+  if (helloSendingSocket->Connect (InetSocketAddress (Ipv4Address ("255.255.255.255"), CCMSN_ROUTING_PORT)))
+   {
+     NS_FATAL_ERROR ("Failed to connect CCMSN Protocl broadcast socket");
+   }
+
+  // Scheduling the Hello timer 
+  Time time = JITTER;
+  helloTimer.Schedule (time);
+
+  cout<<"CCMSN protocol started on node " << mainAddress << endl;
+
+}
+
+void CCMSNProtocol::SetIpv4 (Ptr<Ipv4> ipv4)
+{
+  NS_ASSERT (ipv4 != 0);
+  NS_ASSERT (m_ipv4 == 0);
+  m_ipv4 = ipv4;
+  helloTimer.SetFunction (&CCMSNProtocol::HelloTimerExpired , this);
+  Simulator::ScheduleNow (&CCMSNProtocol::Start, this);
+  
+}
+
+void CCMSNProtocol::HelloTimerExpired ()
+{
+  SendHello ();
+  Time time = helloInterval + JITTER;
+  helloTimer.Schedule (time);
+}
+
+void CCMSNProtocol::ProcessHelloMsg (Ptr<Packet> pkt, Ipv4Address sender)
+{
+  CCMSNMsgHeader header;
+  pkt->RemoveHeader (header);
+    
+  std::cout << "DTN node: " << mainAddress << ", HELLO message received from: "<<sender<<endl;
+ 
+  
+}
+
+void CCMSNProtocol::ProcessInterestMsg (Ptr<Packet> pkt, Ipv4Address sender)
+{
+}
+
+void CCMSNProtocol::ProcessContentMsg (Ptr<Packet> pkt, Ipv4Address sender)
+{
+}
+
+TypeId CCMSNProtocol::GetTypeId (void)
+{
+  static TypeId tid = TypeId ("ns3::CCMSNProtocol").SetParent<Ipv4RoutingProtocol> ().AddConstructor<CCMSNProtocol> ();
+  return tid;
+}
+
+void  CCMSNProtocol::SetDefaultRoute (Ipv4Address nextHop, uint32_t interface)
+{
+  Ipv4RoutingTableEntry *route = new Ipv4RoutingTableEntry ();
+  *route = Ipv4RoutingTableEntry::CreateDefaultRoute (nextHop, interface);
+  if(m_defaultRoute != NULL)
+    delete m_defaultRoute;
+  m_defaultRoute = route;
+  route = NULL;
+}
+
+}
+

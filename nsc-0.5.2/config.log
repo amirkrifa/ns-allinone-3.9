@@ -1,0 +1,6 @@
+file /home/amir/ns-allinone-3.9/nsc-0.5.2/SConstruct,line 125:
+	Configure(confdir = .sconf_temp)
+scons: Configure: Checking target architecure...
+scons: Configure: (cached) x86
+
+

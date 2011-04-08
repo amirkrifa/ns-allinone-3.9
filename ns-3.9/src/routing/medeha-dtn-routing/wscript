@@ -1,0 +1,17 @@
+## -*- Mode: python; py-indent-offset: 4; indent-tabs-mode: nil; coding: utf-8; -*-
+
+def build(bld):
+    module = bld.create_ns3_module('medeha-dtn-routing', ['internet-stack', 'contrib'])
+    module.includes = '.'
+    module.source = [
+        'medeha-dtn-routing.cc',
+        'medeha-dtn-peer-info-header.cc',
+        ]
+
+    headers = bld.new_task_gen('ns3header')
+    headers.module = 'medeha-dtn-routing'
+    headers.source = [
+        'medeha-dtn-routing.h',
+        'medeha-dtn-peer-info-header.h'
+        ]
+

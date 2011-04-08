@@ -1,0 +1,45 @@
+MOBITRADE related files:
+
+/home/amir/ns-allinone-3.9/ns-3.9/src/routing
+
+mobitrade_protocol.cc
+mobitrade_protocol.h
+
+mobitrade_msg_heaser.cc
+mobitrade_msg_header.h
+
+/home/amir/ns-allinone-3.9/ns-3.9/scratch
+
+MobiTradeScript.cc
+mobitradeScript.h
+
+/home/amir/ns-allinone-3.9/ns-3.9/src/helper
+
+mobitrade-protocol-helper.cc
+mobitrade-protocol-helper.h
+
+/home/amir/ns-allinone-3.9/ns-3.9/src/Mobility
+
+MobiTradePositionAllocator.h
+MobiTradePositionAllocator.cc
+
+MobiTradeMobilityModel.h
+MobiTradeMobilityModel.cc
+
+
+Once the files are added, you have to modify the wscript file in each target directory. 
+So, the new added files will be taken into consideration during the next compilation proccess. 
+
+
+
+// Running the mobitrade script using gdb
+
+./waf shell
+gdb ./build/debug/scratch/MobiTradeScript 
+
+ ./waf --command-template="gdb %s" --run MobiTradeKAISTScript
+
+
+
+
+

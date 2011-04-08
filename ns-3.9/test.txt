@@ -1,0 +1,995 @@
+86400 Node: 1 list of delivered contents per channel: 
+Content11- 16
+Content12- 12
+Content14- 7
+Content16- 15
+Content17- 11
+Content19- 5
+Content2- 7
+Content21- 13
+Content22- 11
+Content25- 12
+Content26- 12
+Content28- 12
+Content3- 10
+Content30- 14
+Content31- 11
+Content32- 11
+Content34- 6
+Content36- 19
+Content38- 10
+Content40- 12
+Content42- 11
+Content43- 10
+Content44- 9
+Content47- 11
+Content49- 6
+Content6- 13
+Content7- 10
+Content8- 14
+
+86400 Node: 2 list of delivered contents per channel: 
+Content11- 11
+Content14- 3
+Content16- 9
+Content20- 9
+Content21- 11
+Content24- 7
+Content27- 20
+Content28- 10
+Content3- 9
+Content32- 20
+Content33- 13
+Content36- 11
+Content38- 7
+Content4- 7
+Content40- 11
+Content44- 7
+Content45- 12
+Content49- 5
+Content6- 12
+Content9- 6
+
+86400 Node: 3 list of delivered contents per channel: 
+Content13- 20
+Content17- 11
+Content20- 10
+Content23- 15
+Content29- 8
+Content30- 9
+Content35- 9
+Content41- 11
+Content45- 11
+Content47- 8
+Content5- 12
+Content6- 9
+
+86400 Node: 4 list of delivered contents per channel: 
+Content10- 10
+Content12- 6
+Content13- 6
+Content15- 8
+Content16- 8
+Content19- 20
+Content2- 5
+Content20- 8
+Content21- 6
+Content24- 7
+Content25- 7
+Content26- 6
+Content28- 8
+Content3- 8
+Content30- 8
+Content31- 9
+Content33- 9
+Content35- 8
+Content37- 5
+Content39- 18
+Content40- 10
+Content41- 8
+Content43- 8
+Content45- 7
+Content46- 7
+Content48- 11
+Content5- 11
+Content7- 5
+Content8- 7
+
+86400 Node: 5 list of delivered contents per channel: 
+Content12- 11
+Content14- 7
+Content16- 11
+Content2- 11
+Content23- 11
+Content25- 16
+Content29- 11
+Content34- 10
+Content37- 10
+Content4- 10
+Content40- 18
+Content43- 12
+Content48- 11
+
+86400 Node: 6 list of delivered contents per channel: 
+Content14- 6
+Content18- 11
+Content23- 12
+Content27- 10
+Content33- 13
+Content39- 7
+Content42- 10
+Content47- 11
+Content5- 11
+Content7- 11
+
+86400 Node: 7 list of delivered contents per channel: 
+Content12- 17
+Content13- 7
+Content14- 3
+Content16- 9
+Content19- 5
+Content2- 20
+Content20- 9
+Content22- 20
+Content25- 8
+Content26- 8
+Content27- 20
+Content29- 8
+Content3- 9
+Content32- 18
+Content33- 12
+Content36- 11
+Content37- 20
+Content38- 8
+Content40- 10
+Content42- 17
+Content45- 12
+Content47- 13
+Content48- 9
+Content6- 12
+Content8- 9
+Content9- 6
+
+86400 Node: 8 list of delivered contents per channel: 
+Content12- 9
+Content14- 6
+Content16- 10
+Content19- 5
+Content20- 10
+Content23- 16
+Content24- 9
+Content27- 8
+Content3- 18
+Content30- 11
+Content32- 9
+Content35- 9
+Content37- 10
+Content38- 20
+Content4- 9
+Content41- 10
+Content43- 15
+Content46- 10
+Content48- 12
+Content6- 9
+Content9- 8
+
+86400 Node: 9 list of delivered contents per channel: 
+Content14- 20
+Content15- 7
+Content2- 6
+Content21- 6
+Content27- 7
+Content30- 7
+Content35- 8
+Content36- 7
+Content43- 9
+Content48- 10
+Content7- 6
+
+86400 Node: 10 list of delivered contents per channel: 
+Content15- 20
+Content17- 10
+Content20- 15
+Content26- 8
+Content27- 9
+Content31- 10
+Content35- 15
+Content4- 10
+Content41- 12
+Content42- 11
+Content47- 10
+Content6- 12
+Content9- 8
+
+86400 Node: 11 list of delivered contents per channel: 
+Content12- 12
+Content15- 14
+Content17- 11
+Content2- 8
+Content23- 12
+Content26- 13
+Content30- 13
+Content32- 11
+Content35- 11
+Content39- 8
+Content42- 11
+Content46- 14
+Content7- 11
+
+86400 Node: 12 list of delivered contents per channel: 
+Content10- 10
+Content13- 7
+Content14- 4
+Content16- 9
+Content18- 9
+Content2- 18
+Content21- 11
+Content25- 10
+Content26- 8
+Content28- 10
+Content30- 11
+Content33- 11
+Content37- 17
+Content38- 8
+Content41- 11
+Content42- 20
+Content46- 11
+Content49- 5
+Content5- 11
+Content7- 19
+
+86400 Node: 13 list of delivered contents per channel: 
+Content11- 11
+Content15- 20
+Content17- 12
+Content19- 5
+Content2- 8
+Content23- 16
+Content24- 11
+Content29- 10
+Content30- 15
+Content33- 20
+Content37- 10
+Content39- 9
+Content42- 11
+Content46- 10
+Content48- 20
+Content5- 12
+Content8- 20
+
+86400 Node: 14 list of delivered contents per channel: 
+Content10- 17
+Content15- 9
+Content18- 9
+Content2- 7
+Content21- 7
+Content24- 12
+Content30- 8
+Content32- 7
+Content36- 8
+Content38- 10
+Content43- 8
+Content48- 11
+Content7- 5
+
+86400 Node: 15 list of delivered contents per channel: 
+Content11- 13
+Content14- 8
+Content17- 12
+Content19- 6
+Content2- 11
+Content21- 11
+Content23- 11
+Content27- 11
+Content29- 14
+Content30- 20
+Content33- 20
+Content36- 12
+Content38- 10
+Content40- 20
+Content44- 10
+Content46- 12
+Content47- 11
+Content5- 16
+Content8- 12
+Content9- 9
+
+86400 Node: 16 list of delivered contents per channel: 
+Content12- 11
+Content14- 6
+Content21- 15
+Content23- 10
+Content29- 9
+Content31- 19
+Content34- 5
+Content39- 7
+Content42- 12
+Content48- 10
+Content5- 9
+Content6- 14
+
+86400 Node: 17 list of delivered contents per channel: 
+Content10- 10
+Content16- 8
+Content2- 20
+Content20- 8
+Content22- 17
+Content29- 8
+Content31- 10
+Content35- 10
+Content40- 10
+Content43- 7
+Content46- 11
+Content7- 20
+
+86400 Node: 18 list of delivered contents per channel: 
+Content11- 11
+Content13- 20
+Content15- 12
+Content16- 10
+Content19- 5
+Content2- 9
+Content20- 10
+Content22- 8
+Content24- 10
+Content26- 6
+Content28- 20
+Content3- 20
+Content30- 10
+Content31- 10
+Content34- 8
+Content35- 10
+Content37- 10
+Content39- 9
+Content41- 10
+Content43- 20
+Content45- 11
+Content46- 10
+Content48- 20
+Content5- 12
+Content7- 11
+Content9- 8
+
+86400 Node: 19 list of delivered contents per channel: 
+Content12- 8
+Content14- 20
+Content17- 6
+Content20- 9
+Content24- 20
+Content28- 9
+Content30- 8
+Content34- 20
+Content35- 9
+Content39- 20
+Content4- 20
+Content43- 9
+Content45- 7
+Content47- 7
+Content7- 6
+Content9- 20
+
+86400 Node: 20 list of delivered contents per channel: 
+Content13- 15
+Content17- 13
+Content18- 13
+Content2- 11
+Content22- 14
+Content26- 10
+Content28- 12
+Content32- 12
+Content36- 11
+Content37- 12
+Content42- 12
+Content45- 20
+Content47- 10
+Content7- 12
+Content9- 9
+
+86400 Node: 21 list of delivered contents per channel: 
+Content10- 8
+Content12- 9
+Content14- 4
+Content15- 12
+Content17- 11
+Content19- 4
+Content2- 7
+Content20- 8
+Content22- 9
+Content24- 8
+Content26- 13
+Content27- 8
+Content30- 10
+Content31- 9
+Content32- 9
+Content35- 9
+Content36- 16
+Content38- 6
+Content39- 6
+Content4- 6
+Content42- 9
+Content43- 8
+Content45- 12
+Content47- 10
+Content49- 3
+Content6- 13
+Content7- 9
+Content9- 5
+
+86400 Node: 22 list of delivered contents per channel: 
+Content10- 11
+Content11- 10
+Content14- 8
+Content16- 12
+Content18- 10
+Content2- 20
+Content20- 12
+Content21- 10
+Content24- 8
+Content25- 11
+Content27- 18
+Content28- 11
+Content31- 9
+Content33- 12
+Content35- 11
+Content37- 17
+Content39- 9
+Content4- 8
+Content40- 11
+Content43- 9
+Content44- 7
+Content47- 13
+Content48- 9
+Content5- 11
+Content7- 20
+
+86400 Node: 23 list of delivered contents per channel: 
+Content10- 9
+Content13- 16
+Content16- 8
+Content19- 5
+Content2- 9
+Content22- 8
+Content28- 15
+Content31- 8
+Content33- 20
+Content36- 9
+Content41- 10
+Content43- 15
+Content46- 9
+Content7- 11
+
+86400 Node: 24 list of delivered contents per channel: 
+Content18- 8
+Content20- 14
+Content30- 12
+Content32- 11
+Content4- 10
+Content41- 10
+Content49- 20
+Content9- 20
+
+86400 Node: 25 list of delivered contents per channel: 
+Content11- 10
+Content14- 8
+Content19- 6
+Content22- 10
+Content24- 10
+Content27- 9
+Content3- 10
+Content30- 13
+Content33- 11
+Content36- 10
+Content38- 8
+Content41- 9
+Content46- 9
+Content47- 10
+Content6- 11
+Content9- 9
+
+86400 Node: 26 list of delivered contents per channel: 
+Content10- 9
+Content12- 9
+Content13- 5
+Content15- 11
+Content17- 10
+Content18- 8
+Content2- 7
+Content20- 10
+Content22- 9
+Content23- 9
+Content25- 10
+Content27- 9
+Content28- 10
+Content30- 11
+Content32- 11
+Content33- 11
+Content35- 9
+Content37- 10
+Content39- 6
+Content4- 6
+Content40- 11
+Content42- 9
+Content44- 6
+Content45- 13
+Content46- 8
+Content49- 3
+Content5- 11
+Content6- 11
+Content9- 5
+
+86400 Node: 27 list of delivered contents per channel: 
+Content10- 10
+Content12- 20
+Content16- 9
+Content18- 9
+Content21- 10
+Content25- 9
+Content26- 8
+Content28- 10
+Content3- 9
+Content32- 20
+Content35- 10
+Content37- 20
+Content39- 7
+Content42- 20
+Content46- 12
+Content48- 9
+Content5- 11
+Content7- 20
+
+86400 Node: 28 list of delivered contents per channel: 
+Content11- 10
+Content13- 20
+Content17- 11
+Content19- 5
+Content22- 9
+Content25- 9
+Content27- 9
+Content3- 18
+Content32- 9
+Content35- 10
+Content36- 9
+Content4- 8
+Content41- 10
+Content42- 9
+Content46- 9
+Content48- 20
+Content9- 8
+
+86400 Node: 29 list of delivered contents per channel: 
+Content10- 11
+Content11- 11
+Content14- 15
+Content17- 10
+Content18- 8
+Content21- 11
+Content23- 8
+Content24- 10
+Content27- 9
+Content28- 10
+Content3- 9
+Content33- 10
+Content34- 16
+Content36- 10
+Content39- 11
+Content4- 9
+Content41- 9
+Content44- 7
+Content46- 9
+Content47- 10
+Content7- 10
+
+86400 Node: 30 list of delivered contents per channel: 
+Content10- 19
+Content12- 12
+Content15- 20
+Content18- 12
+Content20- 20
+Content22- 14
+Content24- 12
+Content26- 9
+Content28- 13
+Content3- 13
+Content31- 20
+Content32- 11
+Content35- 20
+Content38- 12
+Content39- 10
+Content42- 12
+Content44- 10
+Content45- 18
+Content48- 18
+Content5- 20
+Content6- 11
+Content9- 9
+
+86400 Node: 31 list of delivered contents per channel: 
+Content10- 13
+Content11- 18
+Content13- 9
+Content15- 12
+Content17- 11
+Content19- 5
+Content2- 8
+Content20- 14
+Content21- 12
+Content23- 11
+Content25- 11
+Content27- 11
+Content29- 11
+Content3- 12
+Content30- 20
+Content33- 20
+Content35- 20
+Content36- 11
+Content39- 9
+Content40- 14
+Content42- 10
+Content44- 9
+Content45- 14
+Content46- 19
+Content48- 20
+Content5- 12
+Content6- 18
+Content8- 13
+
+86400 Node: 32 list of delivered contents per channel: 
+Content10- 12
+Content13- 7
+Content16- 9
+Content18- 9
+Content23- 7
+Content26- 8
+Content27- 20
+Content3- 9
+Content31- 10
+Content34- 7
+Content35- 11
+Content38- 7
+Content4- 7
+Content43- 7
+Content45- 12
+Content48- 11
+Content9- 6
+
+86400 Node: 33 list of delivered contents per channel: 
+Content10- 13
+Content13- 20
+Content15- 20
+Content17- 12
+Content18- 20
+Content2- 10
+Content20- 11
+Content23- 20
+Content24- 11
+Content26- 9
+Content29- 10
+Content31- 16
+Content32- 14
+Content34- 9
+Content37- 12
+Content39- 8
+Content40- 14
+Content43- 14
+Content44- 9
+Content47- 10
+Content49- 7
+Content5- 12
+Content6- 10
+Content9- 8
+
+86400 Node: 34 list of delivered contents per channel: 
+Content11- 8
+Content12- 9
+Content14- 16
+Content17- 8
+Content18- 10
+Content2- 8
+Content20- 20
+Content21- 11
+Content23- 11
+Content25- 20
+Content26- 8
+Content28- 10
+Content31- 10
+Content33- 12
+Content35- 18
+Content38- 9
+Content39- 20
+Content4- 16
+Content41- 11
+Content43- 10
+Content44- 20
+Content47- 8
+Content49- 20
+Content5- 15
+Content8- 10
+Content9- 20
+
+86400 Node: 35 list of delivered contents per channel: 
+Content11- 12
+Content16- 11
+Content22- 13
+Content26- 8
+Content31- 20
+Content38- 10
+Content42- 12
+Content49- 9
+Content5- 20
+
+86400 Node: 36 list of delivered contents per channel: 
+Content10- 12
+Content12- 11
+Content15- 14
+Content17- 11
+Content19- 5
+Content2- 8
+Content21- 16
+Content23- 12
+Content26- 19
+Content29- 11
+Content30- 13
+Content34- 6
+Content37- 8
+Content38- 9
+Content4- 8
+Content41- 20
+Content44- 8
+Content45- 14
+Content47- 11
+Content7- 10
+
+86400 Node: 37 list of delivered contents per channel: 
+Content10- 10
+Content12- 17
+Content14- 3
+Content16- 9
+Content19- 5
+Content2- 20
+Content20- 10
+Content23- 7
+Content25- 8
+Content26- 8
+Content28- 10
+Content30- 9
+Content32- 16
+Content34- 7
+Content36- 11
+Content39- 8
+Content41- 11
+Content42- 17
+Content44- 7
+Content46- 12
+Content49- 5
+Content5- 11
+Content7- 20
+Content8- 9
+
+86400 Node: 38 list of delivered contents per channel: 
+Content11- 12
+Content13- 20
+Content15- 12
+Content16- 11
+Content19- 5
+Content2- 9
+Content21- 7
+Content23- 16
+Content25- 9
+Content26- 7
+Content27- 9
+Content3- 18
+Content30- 13
+Content32- 9
+Content34- 9
+Content35- 10
+Content37- 10
+Content41- 11
+Content42- 9
+Content45- 12
+Content47- 8
+Content48- 20
+Content6- 9
+Content7- 11
+Content9- 8
+
+86400 Node: 39 list of delivered contents per channel: 
+Content14- 20
+Content16- 7
+Content21- 6
+Content26- 6
+Content31- 8
+Content33- 10
+Content38- 9
+Content4- 19
+Content42- 5
+Content48- 9
+Content8- 7
+
+86400 Node: 40 list of delivered contents per channel: 
+Content10- 17
+Content18- 11
+Content2- 10
+Content27- 12
+Content33- 15
+Content39- 11
+Content43- 12
+
+86400 Node: 41 list of delivered contents per channel: 
+Content12- 11
+Content13- 6
+Content14- 6
+Content17- 11
+Content18- 9
+Content2- 8
+Content20- 10
+Content23- 11
+Content24- 12
+Content26- 10
+Content27- 9
+Content29- 10
+Content3- 9
+Content31- 9
+Content33- 12
+Content36- 20
+Content37- 10
+Content39- 8
+Content40- 12
+Content42- 11
+Content45- 14
+Content47- 10
+Content49- 6
+Content6- 13
+Content7- 8
+Content9- 7
+
+86400 Node: 42 list of delivered contents per channel: 
+Content10- 10
+Content17- 20
+Content21- 10
+Content27- 20
+Content3- 9
+Content30- 11
+Content38- 7
+Content43- 8
+Content47- 13
+
+86400 Node: 43 list of delivered contents per channel: 
+Content11- 9
+Content13- 17
+Content15- 11
+Content17- 11
+Content18- 20
+Content2- 9
+Content21- 6
+Content22- 9
+Content26- 5
+Content28- 15
+Content29- 8
+Content31- 8
+Content33- 15
+Content36- 9
+Content38- 17
+Content4- 9
+Content40- 11
+Content41- 10
+Content44- 7
+Content46- 10
+Content47- 8
+Content6- 10
+Content8- 17
+
+86400 Node: 44 list of delivered contents per channel: 
+Content12- 6
+Content18- 9
+Content20- 9
+Content24- 10
+Content3- 8
+Content31- 10
+Content35- 8
+Content39- 16
+Content42- 5
+Content47- 7
+Content9- 20
+
+86400 Node: 45 list of delivered contents per channel: 
+Content12- 12
+Content15- 16
+Content18- 10
+Content2- 11
+Content21- 11
+Content25- 13
+Content28- 14
+Content31- 11
+Content33- 20
+Content35- 14
+Content38- 11
+Content42- 12
+Content44- 9
+Content49- 9
+Content7- 12
+Content9- 10
+
+86400 Node: 46 list of delivered contents per channel: 
+Content13- 5
+Content16- 15
+Content2- 9
+Content20- 10
+Content24- 7
+Content26- 7
+Content30- 11
+Content35- 11
+Content36- 13
+Content39- 7
+Content45- 12
+Content47- 10
+Content6- 11
+Content8- 9
+
+86400 Node: 47 list of delivered contents per channel: 
+Content11- 9
+Content13- 6
+Content15- 10
+Content17- 14
+Content18- 8
+Content2- 14
+Content21- 9
+Content22- 14
+Content24- 8
+Content26- 7
+Content28- 10
+Content3- 7
+Content30- 9
+Content32- 14
+Content33- 9
+Content35- 10
+Content37- 13
+Content39- 8
+Content40- 10
+Content43- 7
+Content44- 7
+Content46- 10
+Content48- 8
+Content6- 10
+Content8- 8
+Content9- 6
+
+86400 Node: 48 list of delivered contents per channel: 
+Content10- 20
+Content13- 19
+Content14- 7
+Content17- 12
+Content19- 5
+Content2- 8
+Content22- 12
+Content25- 13
+Content27- 11
+Content29- 13
+Content30- 17
+Content33- 20
+Content35- 20
+Content39- 10
+Content40- 11
+Content43- 13
+Content45- 17
+Content47- 9
+Content5- 12
+Content8- 19
+
+86400 Node: 49 list of delivered contents per channel: 
+Content13- 7
+Content16- 8
+Content17- 6
+Content2- 6
+Content20- 9
+Content24- 20
+Content28- 8
+Content30- 8
+Content32- 7
+Content36- 8
+Content39- 14
+Content43- 9
+Content44- 16
+Content48- 10
+Content7- 6
+Content9- 20
+

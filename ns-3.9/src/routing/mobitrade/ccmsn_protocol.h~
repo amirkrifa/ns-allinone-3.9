@@ -1,0 +1,75 @@
+#ifndef CCMSN_PROTOCOL
+#define CCMSN_PROTOCOL
+
+
+#include <map>
+#include <list>
+#include "ns3/packet.h"
+#include "ns3/socket-factory.h"
+#include "ns3/udp-socket-factory.h"
+#include "ns3/inet-socket-address.h"
+#include "ns3/ipv4-routing-protocol.h"
+#include "ns3/timer.h"
+#include "ns3/ipv4-routing-table-entry.h"
+#define HELLO_INTERVAL 100000000
+#define MAX_JITTER (helloInterval.GetSeconds () / 4)
+#define JITTER (Seconds (UniformVariable().GetValue (0, MAX_JITTER)))
+#define CCMSN_ROUTING_PORT  2617
+
+namespace ns3{
+
+
+class Ipv4Address;
+class CCMSNProtocol: public Ipv4RoutingProtocol
+{
+public:
+
+  CCMSNProtocol();
+  ~CCMSNProtocol();
+  static TypeId GetTypeId (void);
+  virtual Ptr<Ipv4Route> RouteOutput (Ptr<Packet> p, const Ipv4Header &header, Ptr<NetDevice> oif, Socket::SocketErrno &sockerr);
+  
+  virtual bool RouteInput (Ptr<const Packet> p, const Ipv4Header &header, Ptr<const NetDevice> idev,UnicastForwardCallback ucb, MulticastForwardCallback mcb,         LocalDeliverCallback lcb, ErrorCallback ecb);
+
+  virtual void NotifyInterfaceUp (uint32_t interface);
+  virtual void NotifyInterfaceDown (uint32_t interface);
+  virtual void NotifyAddAddress (uint32_t interface, Ipv4InterfaceAddress address);
+  virtual void NotifyRemoveAddress (uint32_t interface, Ipv4InterfaceAddress address);
+  virtual void SetIpv4 (Ptr<Ipv4> ipv4);
+
+  void Start();
+  void SendHello ();
+  void SendPacket (Ptr<Packet> packet, Ptr<Socket> socket);
+  void RecvPacket (Ptr<Socket> socket);
+  void HelloTimerExpired ();
+  
+  void ProcessHelloMsg (Ptr<Packet>, Ipv4Address);
+  void ProcessInterestMsg (Ptr<Packet>, Ipv4Address);
+  void ProcessContentMsg (Ptr<Packet>, Ipv4Address);
+
+  void SetDefaultRoute (Ipv4Address nextHop, uint32_t interface);
+
+private:
+
+  // Neighbors last meeting time map
+  std::map<Ipv4Address,  uint32_t> neighborsLastMeetingTimeMap;
+  // Neighbors sockets map
+  std::map<Ipv4Address, Ptr<Socket> > neighborsSocketMap;
+  // The list of current active sessions
+  std::list<Ipv4Address> currentActiveSessions;
+  // Local socket
+  Ptr<Socket> helloSendingSocket;
+  Ptr<Socket> listeningSocket;
+  // Main local addess
+  Ipv4Address mainAddress;
+  Ptr<Ipv4> m_ipv4;
+  // Hello Timer
+  Timer helloTimer;
+  Time helloInterval;
+  Ipv4RoutingTableEntry *m_defaultRoute;
+
+};
+
+}
+#endif
+ 
